@@ -1,0 +1,133 @@
+"use client";
+
+import * as React from "react";
+
+import { cn } from "@/lib/utils";
+import { Button } from "@/components/ui/button";
+import {
+  CaretLeftIcon,
+  CaretRightIcon,
+  DotsThreeIcon,
+} from "@phosphor-icons/react";
+
+function Pagination({ className, ...props }: React.ComponentProps<"nav">) {
+  return (
+    <nav
+      role="navigation"
+      aria-label="pagination"
+      data-slot="pagination"
+      className={cn("mx-auto flex w-full justify-center", className)}
+      {...props}
+    />
+  );
+}
+
+function PaginationContent({
+  className,
+  ...props
+}: React.ComponentProps<"ul">) {
+  return (
+    <ul
+      data-slot="pagination-content"
+      className={cn("gap-1 flex items-center", className)}
+      {...props}
+    />
+  );
+}
+
+function PaginationItem({ ...props }: React.ComponentProps<"li">) {
+  return <li data-slot="pagination-item" {...props} />;
+}
+
+type PaginationLinkProps = {
+  isActive?: boolean;
+} & Pick<React.ComponentProps<typeof Button>, "size"> &
+  React.ComponentProps<"a">;
+
+function PaginationLink({
+  className,
+  isActive,
+  size = "icon",
+  ...props
+}: PaginationLinkProps) {
+  return (
+    <Button
+      variant={isActive ? "outline" : "ghost"}
+      size={size}
+      className={cn(className)}
+      nativeButton={false}
+      render={
+        <a
+          aria-current={isActive ? "page" : undefined}
+          data-slot="pagination-link"
+          data-active={isActive}
+          {...props}
+        />
+      }
+    />
+  );
+}
+
+function PaginationPrevious({
+  className,
+  ...props
+}: React.ComponentProps<typeof PaginationLink>) {
+  return (
+    <PaginationLink
+      aria-label="Отиди на предишна страница"
+      size="default"
+      className={cn("pl-2!", className)}
+      {...props}
+    >
+      <CaretLeftIcon data-icon="inline-start" />
+      <span className="hidden sm:block">Предишна</span>
+    </PaginationLink>
+  );
+}
+
+function PaginationNext({
+  className,
+  ...props
+}: React.ComponentProps<typeof PaginationLink>) {
+  return (
+    <PaginationLink
+      aria-label="Отиди на следваща страница"
+      size="default"
+      className={cn("pr-2!", className)}
+      {...props}
+    >
+      <span className="hidden sm:block">Следваща</span>
+      <CaretRightIcon data-icon="inline-end" />
+    </PaginationLink>
+  );
+}
+
+function PaginationEllipsis({
+  className,
+  ...props
+}: React.ComponentProps<"span">) {
+  return (
+    <span
+      aria-hidden
+      data-slot="pagination-ellipsis"
+      className={cn(
+        "size-9 items-center justify-center [&_svg:not([class*='size-'])]:size-4 flex items-center justify-center",
+        className,
+      )}
+      {...props}
+    >
+      <DotsThreeIcon />
+      <span className="sr-only">Още страници</span>
+    </span>
+  );
+}
+
+export {
+  Pagination,
+  PaginationContent,
+  PaginationEllipsis,
+  PaginationItem,
+  PaginationLink,
+  PaginationNext,
+  PaginationPrevious,
+};

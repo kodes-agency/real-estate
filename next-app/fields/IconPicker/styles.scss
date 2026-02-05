@@ -1,0 +1,207 @@
+.icon-picker-field {
+  margin-bottom: 1.5rem;
+
+  &__control {
+    display: flex;
+    align-items: stretch;
+    gap: 0.5rem;
+  }
+
+  &__trigger {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    padding: 0.55rem 1rem;
+    min-height: 40px;
+    background: var(--theme-input-bg, #1a1a1a);
+    border: 1px solid var(--theme-elevation-150, #333);
+    border-radius: 4px;
+    cursor: pointer;
+    color: var(--theme-text, #fff);
+    font-size: 0.875rem;
+    transition: border-color 0.15s ease;
+    text-align: left;
+
+    &:hover {
+      border-color: var(--theme-elevation-300, #555);
+    }
+
+    &:focus {
+      outline: none;
+      border-color: var(--theme-success, #00a550);
+    }
+  }
+
+  &__selected {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+  }
+
+  &__name {
+    color: var(--theme-text, #fff);
+  }
+
+  &__placeholder {
+    color: var(--theme-elevation-400, #888);
+  }
+
+  &__clear {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.75rem;
+    background: var(--theme-input-bg, #1a1a1a);
+    border: 1px solid var(--theme-elevation-150, #333);
+    border-radius: 4px;
+    cursor: pointer;
+    color: var(--theme-elevation-400, #888);
+    transition: all 0.15s ease;
+
+    &:hover {
+      color: var(--theme-error, #ff6b6b);
+      border-color: var(--theme-error, #ff6b6b);
+    }
+  }
+
+  &__overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10000;
+    padding: 1rem;
+  }
+
+  &__modal {
+    background: var(--theme-bg, #0d0d0d);
+    border: 1px solid var(--theme-elevation-150, #333);
+    border-radius: 8px;
+    width: 100%;
+    max-width: 600px;
+    max-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+  }
+
+  &__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 1.5rem;
+    border-bottom: 1px solid var(--theme-elevation-150, #333);
+
+    h3 {
+      margin: 0;
+      font-size: 1.125rem;
+      font-weight: 600;
+      color: var(--theme-text, #fff);
+    }
+  }
+
+  &__close {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    background: transparent;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    color: var(--theme-elevation-400, #888);
+    transition: all 0.15s ease;
+
+    &:hover {
+      background: var(--theme-elevation-100, #222);
+      color: var(--theme-text, #fff);
+    }
+  }
+
+  &__search {
+    position: relative;
+    padding: 1rem 1.5rem;
+    border-bottom: 1px solid var(--theme-elevation-150, #333);
+
+    input {
+      width: 100%;
+      padding: 0.75rem 1rem 0.75rem 2.5rem;
+      background: var(--theme-input-bg, #1a1a1a);
+      border: 1px solid var(--theme-elevation-150, #333);
+      border-radius: 4px;
+      color: var(--theme-text, #fff);
+      font-size: 0.875rem;
+
+      &::placeholder {
+        color: var(--theme-elevation-400, #888);
+      }
+
+      &:focus {
+        outline: none;
+        border-color: var(--theme-success, #00a550);
+      }
+    }
+
+    &-icon {
+      position: absolute;
+      left: calc(1.5rem + 0.75rem);
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--theme-elevation-400, #888);
+      pointer-events: none;
+    }
+  }
+
+  &__grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(44px, 1fr));
+    gap: 0.5rem;
+    padding: 1rem 1.5rem;
+    overflow-y: auto;
+    flex: 1;
+  }
+
+  &__icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    background: transparent;
+    border: 1px solid transparent;
+    border-radius: 6px;
+    cursor: pointer;
+    color: var(--theme-text, #fff);
+    transition: all 0.15s ease;
+
+    &:hover {
+      background: var(--theme-elevation-100, #222);
+      border-color: var(--theme-elevation-200, #444);
+    }
+
+    &--selected {
+      background: var(--theme-success, #00a550);
+      border-color: var(--theme-success, #00a550);
+      color: #fff;
+
+      &:hover {
+        background: var(--theme-success, #00a550);
+        border-color: var(--theme-success, #00a550);
+      }
+    }
+  }
+
+  &__empty {
+    padding: 3rem 1.5rem;
+    text-align: center;
+    color: var(--theme-elevation-400, #888);
+    font-size: 0.875rem;
+  }
+}
