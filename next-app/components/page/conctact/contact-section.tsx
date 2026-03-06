@@ -1,9 +1,7 @@
-"use client";
-
 import { ContactPage } from "@/payload-types";
 import { GoogleMapsEmbed } from "@next/third-parties/google";
 import Link from "next/link";
-import { PhoneIcon, EnvelopeIcon, MapPinIcon } from "@phosphor-icons/react";
+import { PhoneIcon, EnvelopeIcon, MapPinIcon } from "@phosphor-icons/react/ssr";
 import { WhatsappIcon, ViberIcon, FacebookIcon } from "react-share";
 
 const iconMapper = {
@@ -21,7 +19,7 @@ export const ContactSection = ({ page }: { page: ContactPage }) => {
       <div className="grid md:grid-cols-2 gap-10 w-full">
         <div className="order-2 md:order-1 rounded-2xl overflow-hidden shadow-2xl/30">
           <GoogleMapsEmbed
-            apiKey="AIzaSyDL3dHxY4hJpyuT37jkBs-I1AQV2txKlSs"
+            apiKey={process.env.GOOGLE_MAPS_API_KEY || ""}
             height={400}
             width="100%"
             zoom="16"
