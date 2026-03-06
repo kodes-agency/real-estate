@@ -7,6 +7,8 @@ import sharp from "sharp";
 import { s3Storage } from "@payloadcms/storage-s3";
 import { seoPlugin } from "@payloadcms/plugin-seo";
 import { bg } from "payload/i18n/bg";
+import { importExportPlugin } from "@payloadcms/plugin-import-export";
+import { nodemailerAdapter } from "@payloadcms/email-nodemailer";
 
 import { Users } from "./collections/Users";
 import { Media } from "./collections/Media";
@@ -23,6 +25,8 @@ import { HomePage } from "./globals/HomePage";
 import { Images } from "./collections/Images";
 import { AboutPage } from "./globals/AboutPage";
 import { ServicesPage } from "./globals/ServicesPage";
+import { ContactPage } from "./globals/ContactPage";
+import { PrivacyPolicy } from "./globals/PrivacyPolicy";
 
 const filename = fileURLToPath(import.meta.url);
 const dirname = path.dirname(filename);
@@ -63,7 +67,7 @@ export default buildConfig({
     Images,
     Users,
   ],
-  globals: [HomePage, AboutPage, ServicesPage],
+  globals: [HomePage, AboutPage, ServicesPage, ContactPage, PrivacyPolicy],
   editor: lexicalEditor(),
   secret: process.env.PAYLOAD_SECRET || "",
   typescript: {
@@ -75,10 +79,40 @@ export default buildConfig({
     },
   }),
   sharp,
+  email: nodemailerAdapter({
+    defaultFromAddress: process.env.SMTP_FROM_ADDRESS || "",
+    defaultFromName: process.env.SMTP_FROM_NAME || "",
+    // Nodemailer transportOptions
+    transportOptions: {
+      host: process.env.SMTP_HOST,
+      port: Number(process.env.SMTP_PORT),
+      auth: {
+        user: process.env.SMTP_USER,
+        pass: process.env.SMTP_PASS,
+      },
+    },
+  }) as any,
   plugins: [
+    importExportPlugin({
+      debug: true,
+      collections: [
+        { slug: "users" },
+        { slug: "properties" },
+        { slug: "media" },
+        { slug: "images" },
+        { slug: "categories" },
+        { slug: "regions" },
+        { slug: "cities" },
+        { slug: "parent-categories" },
+        { slug: "tags" },
+        { slug: "characteristics" },
+        { slug: "requests" },
+        { slug: "properties-requests" },
+      ],
+    }),
     seoPlugin({
       collections: ["properties"],
-      globals: ["home-page", "about-page", "services-page"],
+      globals: ["home-page", "about-page", "services-page", "contact-page"],
       tabbedUI: true,
     }),
     s3Storage({

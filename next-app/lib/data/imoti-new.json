@@ -5,9 +5,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -48,9 +46,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 14,
     "city": 1,
     "region": 1,
@@ -96,9 +92,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 7,
     "city": 1,
     "region": 1,
@@ -130,9 +124,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -177,9 +169,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -189,7 +179,7 @@
       {
         "children": [
           {
-            "text": "Hayatis Estates представя на вашето внимание двустаен апартамент за продажба.Жилището се намира в кооперация , построена през 2007 г., на пети жилищен етаж ,като апартаментът е завършен през 2017 г. Сградата разполага с асансьор ,който се използва само от три апартамента с чип.Отлична локация в близост до училище и до централната част на града.\r\n\r\nИмотът е с квадратура 75,88 кв. м. и  се продава напълно обзаведен с висок клас мебели и електроуреди.Състои се от дневна , кухня с трапезария , спалня, входно антре, баня, тоалетна и тераса.Съчетаващ в себе си модерни акценти на обзавеждане и топли цветови нюанси ,апартаментът е изключително добра и изгодна сделка.\r\n\r\nА за тези от вас , които търсят дългосрочна инвестиция,имотът се предлага с наематели.\r\n\r\nЕ ,това не е ли най-добрата сделка?\r\n\r\nОчакваме вашите обаждания ,за да ви покажем този уникален имот!"
+            "text": "Hayatis Estates представя на вашето внимание двустаен апартамент за продажба.Жилището се намира в кооперация , построена през 2007 г., на пети жилищен етаж ,като апартаментът е завършен през 2017 г. Сградата разполага с асансьор ,който се използва само от три апартамента с чип.Отлична локация в близост до училище и до централната част на града.\r\n\r\nИмотът е с квадратура 75,88 кв. м. и  се продава напълно обзаведен с висок клас мебели и електроуреди.Състои се от дневна , кухня с трапезария , спалня, входно антре, баня, тоалетна и тераса.Съчетаващ в себе си модерни акценти на обзавеждане и топли цветови нюанси ,апартаментът е изключително добра и изгодна сделка.\r\n\r\nА за тези от Вас , които търсят дългосрочна инвестиция,имотът се предлага с наематели.\r\n\r\nЕ ,това не е ли най-добрата сделка?\r\n\r\nОчакваме вашите обаждания ,за да ви покажем този уникален имот!"
           }
         ]
       }
@@ -229,9 +219,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 4,
     "city": 1,
     "region": 1,
@@ -273,9 +261,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -320,9 +306,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -362,9 +346,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -408,9 +390,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 13,
     "city": 1,
     "region": 1,
@@ -426,11 +406,7 @@
       }
     ],
     "features": [],
-    "images": [
-      "image_1729_03.jpg",
-      "image_1729_02.jpg",
-      "image_1729_01.jpg"
-    ]
+    "images": ["image_1729_03.jpg", "image_1729_02.jpg", "image_1729_01.jpg"]
   },
   {
     "legacy_id": 1734,
@@ -438,9 +414,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 7,
     "city": 1,
     "region": 1,
@@ -456,11 +430,7 @@
       }
     ],
     "features": [],
-    "images": [
-      "image_1734_03.jpg",
-      "image_1734_02.jpg",
-      "image_1734_01.jpg"
-    ]
+    "images": ["image_1734_03.jpg", "image_1734_02.jpg", "image_1734_01.jpg"]
   },
   {
     "legacy_id": 1797,
@@ -468,9 +438,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 17,
     "city": 1,
     "region": 1,
@@ -509,9 +477,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -553,9 +519,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -594,9 +558,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 5,
     "city": 1,
     "region": 1,
@@ -640,9 +602,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -693,9 +653,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 13,
     "city": 1,
     "region": 1,
@@ -729,9 +687,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 15,
     "city": 1,
     "region": 1,
@@ -783,9 +739,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 0,
     "city": 1,
     "region": 1,
@@ -827,9 +781,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -839,7 +791,7 @@
       {
         "children": [
           {
-            "text": "Hayatis Estates ви представя тристаен апартамент за продажба , разположен на цял етаж в сграда с перфектна локация , в непосредствена близост до детска градина,хранителни магазини и градският парк.\r\n\r\nИмотът е площ от 189 кв.м. с общите части , като до самото жилище се стига с асансьор , който единствено собствениците имат чип за него.Апартаментът е напълно обзаведен, с големи тераси и прекрасни панорамни гледки. Състои се от дневна с кухненски бокс и трапезария , спалня ,баня и тоалетна , гардеробна , тоалетна и една огромна тераса.\r\n\r\nОсвен всички досега предимства, апартаментът разполага и с подземен гараж!\r\n\r\nАпартаментът е изключително стилно обзаведен  , с възможности за преустройство по ваш вкус.Големите пространства , френските прозорци , внасящи още повече светлина го превръщат в един страхотен бъдещ дом за вас!\r\n\r\nОбадете ни се!\r\n\r\n\r\n\r\n\r\n\r\n"
+            "text": "Hayatis Estates ви представя тристаен апартамент за продажба , разположен на цял етаж в сграда с перфектна локация , в непосредствена близост до детска градина,хранителни магазини и градският парк.\r\n\r\nИмотът е площ от 189 кв.м. с общите части , като до самото жилище се стига с асансьор , който единствено собствениците имат чип за него.Апартаментът е напълно обзаведен, с големи тераси и прекрасни панорамни гледки. Състои се от дневна с кухненски бокс и трапезария , спалня ,баня и тоалетна , гардеробна , тоалетна и една огромна тераса.\r\n\r\nОсвен всички досега предимства, апартаментът разполага и с подземен гараж!\r\n\r\nАпартаментът е изключително стилно обзаведен  , с възможности за преустройство по ваш вкус.Големите пространства , френските прозорци , внасящи още повече светлина го превръщат в един страхотен бъдещ дом за Вас!\r\n\r\nОбадете ни се!\r\n\r\n\r\n\r\n\r\n\r\n"
           }
         ]
       }
@@ -872,9 +824,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 5,
     "city": 1,
     "region": 1,
@@ -921,9 +871,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 1,
     "city": 1,
     "region": 1,
@@ -967,9 +915,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -1012,9 +958,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 19,
     "city": 8,
     "region": 1,
@@ -1030,9 +974,7 @@
       }
     ],
     "features": [],
-    "images": [
-      "image_2473_01.jpg"
-    ]
+    "images": ["image_2473_01.jpg"]
   },
   {
     "legacy_id": 2475,
@@ -1040,9 +982,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -1089,9 +1029,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 10,
     "city": 1,
     "region": 1,
@@ -1120,10 +1058,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent",
-      "for_sale"
-    ],
+    "purpose": ["for_rent", "for_sale"],
     "category": 13,
     "city": 1,
     "region": 1,
@@ -1153,9 +1088,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -1201,9 +1134,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 7,
     "city": 1,
     "region": 1,
@@ -1246,9 +1177,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 1,
     "city": 1,
     "region": 1,
@@ -1297,9 +1226,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 17,
     "city": 1,
     "region": 1,
@@ -1320,9 +1247,7 @@
         "value": "лице ~40 м към улица"
       }
     ],
-    "images": [
-      "image_2646_01.jpg"
-    ]
+    "images": ["image_2646_01.jpg"]
   },
   {
     "legacy_id": 2663,
@@ -1330,9 +1255,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -1380,9 +1303,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 5,
     "city": 1,
     "region": 1,
@@ -1423,9 +1344,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -1477,9 +1396,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 17,
     "city": 1,
     "region": 1,
@@ -1489,16 +1406,13 @@
       {
         "children": [
           {
-            "text": "Hayatis Estates представя за продажба УПИ в град Свиленград,намиращ се на главна улица \" Граничар\" .\r\n\r\nИмотът е с площ от 1.628 дка и е отреден за жилищно застрояване.Граничи с две улици ,ъглов имот.Изключително подходящ , както за застрояване на вашият бъдещ дом , така и с инвестиционна цел.\r\n\r\nАко този имот представлява интерес за вас, се свържете с нас!"
+            "text": "Hayatis Estates представя за продажба УПИ в град Свиленград,намиращ се на главна улица \" Граничар\" .\r\n\r\nИмотът е с площ от 1.628 дка и е отреден за жилищно застрояване.Граничи с две улици ,ъглов имот.Изключително подходящ , както за застрояване на вашият бъдещ дом , така и с инвестиционна цел.\r\n\r\nАко този имот представлява интерес за Вас, се свържете с нас!"
           }
         ]
       }
     ],
     "features": [],
-    "images": [
-      "image_2716_02.jpeg",
-      "image_2716_01.jpeg"
-    ]
+    "images": ["image_2716_02.jpeg", "image_2716_01.jpeg"]
   },
   {
     "legacy_id": 2718,
@@ -1506,9 +1420,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 14,
     "city": 1,
     "region": 1,
@@ -1518,7 +1430,7 @@
       {
         "children": [
           {
-            "text": "Hayatis Estates представя на вашето внимание етаж от къща за продажба в идеален център на град Свиленград.Имотът е в непосредствена близост до централната улица на града, Пощата и в близост до пазара.\r\n\r\nКъщата е разположена на две улици,ъглов имот.Всеки етаж е с отделен вход.Имотът е с площ от 714 кв.м., РЗП на етажа : 100 кв.м., разположен на втори жилищен етаж,разполага с 1/2 от идеалните части ,ведно с избена стая и таванско помещение.Състои се от четири стаи и салон,изградена баня и тоалетна.\r\n\r\nИмотът е изключително атрактивен заради отличната си локация и югоизточно изложение.\r\n\r\nАко този имот представлява интерес за вас,свържете се с нас за повече информация!\r\n\r\n"
+            "text": "Hayatis Estates представя на вашето внимание етаж от къща за продажба в идеален център на град Свиленград.Имотът е в непосредствена близост до централната улица на града, Пощата и в близост до пазара.\r\n\r\nКъщата е разположена на две улици,ъглов имот.Всеки етаж е с отделен вход.Имотът е с площ от 714 кв.м., РЗП на етажа : 100 кв.м., разположен на втори жилищен етаж,разполага с 1/2 от идеалните части ,ведно с избена стая и таванско помещение.Състои се от четири стаи и салон,изградена баня и тоалетна.\r\n\r\nИмотът е изключително атрактивен заради отличната си локация и югоизточно изложение.\r\n\r\nАко този имот представлява интерес за Вас,свържете се с нас за повече информация!\r\n\r\n"
           }
         ]
       }
@@ -1546,9 +1458,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -1593,9 +1503,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -1645,9 +1553,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 13,
     "city": 1,
     "region": 1,
@@ -1686,9 +1592,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 19,
     "city": 8,
     "region": 1,
@@ -1717,9 +1621,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 5,
     "city": 1,
     "region": 1,
@@ -1763,9 +1665,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -1809,9 +1709,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -1840,9 +1738,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 5,
     "region": 1,
@@ -1884,9 +1780,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 17,
     "city": 1,
     "region": 1,
@@ -1902,9 +1796,7 @@
       }
     ],
     "features": [],
-    "images": [
-      "image_3105_01.jpeg"
-    ]
+    "images": ["image_3105_01.jpeg"]
   },
   {
     "legacy_id": 3141,
@@ -1912,9 +1804,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 19,
     "city": 1,
     "region": 1,
@@ -1935,9 +1825,7 @@
         "value": "лице 11 м"
       }
     ],
-    "images": [
-      "image_3141_01.jpg"
-    ]
+    "images": ["image_3141_01.jpg"]
   },
   {
     "legacy_id": 3149,
@@ -1945,10 +1833,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale",
-      "for_rent"
-    ],
+    "purpose": ["for_sale", "for_rent"],
     "category": 9,
     "city": 1,
     "region": 1,
@@ -1979,9 +1864,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 19,
     "city": 1,
     "region": 1,
@@ -1997,9 +1880,7 @@
       }
     ],
     "features": [],
-    "images": [
-      "image_3175_01.jpg"
-    ]
+    "images": ["image_3175_01.jpg"]
   },
   {
     "legacy_id": 3191,
@@ -2007,9 +1888,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -2053,9 +1932,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -2099,9 +1976,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -2137,9 +2012,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -2168,11 +2041,7 @@
         "value": "нова кооперация"
       }
     ],
-    "images": [
-      "image_3346_03.jpg",
-      "image_3346_02.jpg",
-      "image_3346_01.jpg"
-    ]
+    "images": ["image_3346_03.jpg", "image_3346_02.jpg", "image_3346_01.jpg"]
   },
   {
     "legacy_id": 3360,
@@ -2180,9 +2049,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 8,
     "city": 1,
     "region": 1,
@@ -2216,9 +2083,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 19,
     "city": 1,
     "region": 1,
@@ -2234,9 +2099,7 @@
       }
     ],
     "features": [],
-    "images": [
-      "image_3402_01.jpg"
-    ]
+    "images": ["image_3402_01.jpg"]
   },
   {
     "legacy_id": 3407,
@@ -2244,9 +2107,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -2287,9 +2148,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 1,
     "region": 1,
@@ -2343,9 +2202,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -2385,9 +2242,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 7,
     "city": 1,
     "region": 1,
@@ -2426,9 +2281,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -2473,9 +2326,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -2522,9 +2373,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 5,
     "city": 1,
     "region": 1,
@@ -2568,9 +2417,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -2614,9 +2461,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -2645,9 +2490,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 5,
     "region": 1,
@@ -2689,9 +2532,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 17,
     "city": 1,
     "region": 1,
@@ -2707,9 +2548,7 @@
       }
     ],
     "features": [],
-    "images": [
-      "image_3105_01.jpeg"
-    ]
+    "images": ["image_3105_01.jpeg"]
   },
   {
     "legacy_id": 3141,
@@ -2717,9 +2556,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 19,
     "city": 1,
     "region": 1,
@@ -2740,9 +2577,7 @@
         "value": "лице 11 м"
       }
     ],
-    "images": [
-      "image_3141_01.jpg"
-    ]
+    "images": ["image_3141_01.jpg"]
   },
   {
     "legacy_id": 3149,
@@ -2750,10 +2585,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale",
-      "for_rent"
-    ],
+    "purpose": ["for_sale", "for_rent"],
     "category": 9,
     "city": 1,
     "region": 1,
@@ -2784,9 +2616,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 19,
     "city": 1,
     "region": 1,
@@ -2802,9 +2632,7 @@
       }
     ],
     "features": [],
-    "images": [
-      "image_3175_01.jpg"
-    ]
+    "images": ["image_3175_01.jpg"]
   },
   {
     "legacy_id": 3191,
@@ -2812,9 +2640,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -2858,9 +2684,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -2904,9 +2728,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -2942,9 +2764,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -2973,11 +2793,7 @@
         "value": "нова кооперация"
       }
     ],
-    "images": [
-      "image_3346_03.jpg",
-      "image_3346_02.jpg",
-      "image_3346_01.jpg"
-    ]
+    "images": ["image_3346_03.jpg", "image_3346_02.jpg", "image_3346_01.jpg"]
   },
   {
     "legacy_id": 3360,
@@ -2985,9 +2801,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 8,
     "city": 1,
     "region": 1,
@@ -3021,9 +2835,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 19,
     "city": 1,
     "region": 1,
@@ -3039,9 +2851,7 @@
       }
     ],
     "features": [],
-    "images": [
-      "image_3402_01.jpg"
-    ]
+    "images": ["image_3402_01.jpg"]
   },
   {
     "legacy_id": 3407,
@@ -3049,9 +2859,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -3092,9 +2900,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 1,
     "region": 1,
@@ -3148,9 +2954,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -3190,9 +2994,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 7,
     "city": 1,
     "region": 1,
@@ -3231,9 +3033,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -3278,9 +3078,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -3327,9 +3125,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 19,
     "city": 1,
     "region": 1,
@@ -3350,9 +3146,7 @@
         "value": "лице към магистралата (50 м)"
       }
     ],
-    "images": [
-      "image_3620_01.jpg"
-    ]
+    "images": ["image_3620_01.jpg"]
   },
   {
     "legacy_id": 3643,
@@ -3360,9 +3154,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -3405,9 +3197,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 4,
     "city": 1,
     "region": 1,
@@ -3448,9 +3238,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 1,
     "region": 1,
@@ -3501,9 +3289,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 13,
     "city": 1,
     "region": 1,
@@ -3540,9 +3326,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -3589,9 +3373,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 19,
     "city": 1,
     "region": 1,
@@ -3607,10 +3389,7 @@
       }
     ],
     "features": [],
-    "images": [
-      "image_3841_02.jpg",
-      "image_3841_01.jpg"
-    ]
+    "images": ["image_3841_02.jpg", "image_3841_01.jpg"]
   },
   {
     "legacy_id": 3849,
@@ -3618,9 +3397,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 13,
     "city": 1,
     "region": 1,
@@ -3655,10 +3432,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale",
-      "for_rent"
-    ],
+    "purpose": ["for_sale", "for_rent"],
     "category": 12,
     "city": 1,
     "region": 1,
@@ -3735,9 +3509,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -3781,9 +3553,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 17,
     "city": 2,
     "region": 1,
@@ -3793,7 +3563,7 @@
       {
         "children": [
           {
-            "text": "Hayatis Estates представя за продажба имот, находящ се в град Любимец. Имотът се намира на тиха улица, в близост до детски площадки, училище и детска градина.\r\n\r\nИмотът е с площ от 575 кв.м., има право на застрояване. Разполага с партиди за ток и вода, има кладенец и септична яма. В имота е имало жилищна сграда и стопански постройки, които към момента са почти срутени.\r\n\r\nПодходящ е за застрояване на вашият бъдещ дом, както и локацията му го прави една добра сделка.\r\n\r\nАко този имот, представлява интерес за вас, не се колебайте да ни се обадите!\r\n\r\n"
+            "text": "Hayatis Estates представя за продажба имот, находящ се в град Любимец. Имотът се намира на тиха улица, в близост до детски площадки, училище и детска градина.\r\n\r\nИмотът е с площ от 575 кв.м., има право на застрояване. Разполага с партиди за ток и вода, има кладенец и септична яма. В имота е имало жилищна сграда и стопански постройки, които към момента са почти срутени.\r\n\r\nПодходящ е за застрояване на вашият бъдещ дом, както и локацията му го прави една добра сделка.\r\n\r\nАко този имот, представлява интерес за Вас, не се колебайте да ни се обадите!\r\n\r\n"
           }
         ]
       }
@@ -3818,9 +3588,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -3855,9 +3623,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -3904,9 +3670,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 15,
     "city": 1,
     "region": 1,
@@ -3949,9 +3713,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 5,
     "city": 1,
     "region": 1,
@@ -4000,9 +3762,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -4052,9 +3812,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 1,
     "region": 1,
@@ -4097,9 +3855,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 8,
     "region": 1,
@@ -4148,9 +3904,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 12,
     "city": 1,
     "region": 1,
@@ -4194,9 +3948,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 1,
     "region": 1,
@@ -4206,7 +3958,7 @@
       {
         "children": [
           {
-            "text": "Hayatis Estates представя двуетажна къща за продажба в квартал \" Капитан Петко Войвода\" на главен път посока границата ни с Гърция. Имотът е на комуникативно място, с добра локация и достъпност.\r\n\r\nПлощта на имота е 1031 кв.м., като ЗП е 83 кв.м. и 52 кв.м. гаражи. В имота има двуетажна масивна жилищна сграда, която се състои от два входа и едно търговско помещение. Първият етаж е със следното разположение- две стаи, баня и тоалетна. Вторият етаж е с разпределение - тераса, две стаи, баня и тоалетна. Сградата може да бъде отоплявана на парно, тъй като има отведени тръби и помещение за котелно.\r\n\r\nИмотът предлага възможности за преустройство по ваш вкус и има възможност да бъде използван освен за лични цели, а и за инвестиционни.\r\n\r\nАко тази оферта представлява интерес за вас, обадете ни се!"
+            "text": "Hayatis Estates представя двуетажна къща за продажба в квартал \" Капитан Петко Войвода\" на главен път посока границата ни с Гърция. Имотът е на комуникативно място, с добра локация и достъпност.\r\n\r\nПлощта на имота е 1031 кв.м., като ЗП е 83 кв.м. и 52 кв.м. гаражи. В имота има двуетажна масивна жилищна сграда, която се състои от два входа и едно търговско помещение. Първият етаж е със следното разположение- две стаи, баня и тоалетна. Вторият етаж е с разпределение - тераса, две стаи, баня и тоалетна. Сградата може да бъде отоплявана на парно, тъй като има отведени тръби и помещение за котелно.\r\n\r\nИмотът предлага възможности за преустройство по ваш вкус и има възможност да бъде използван освен за лични цели, а и за инвестиционни.\r\n\r\nАко тази оферта представлява интерес за Вас, обадете ни се!"
           }
         ]
       }
@@ -4237,9 +3989,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 7,
     "region": 1,
@@ -4289,9 +4039,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 13,
     "city": 1,
     "region": 1,
@@ -4326,9 +4074,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -4372,9 +4118,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 15,
     "city": 2,
     "region": 1,
@@ -4413,9 +4157,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 14,
     "city": 1,
     "region": 1,
@@ -4459,9 +4201,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -4504,9 +4244,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 1,
     "region": 1,
@@ -4544,9 +4282,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 15,
     "city": 1,
     "region": 1,
@@ -4595,9 +4331,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 15,
     "city": 1,
     "region": 1,
@@ -4646,9 +4380,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 14,
     "city": 1,
     "region": 1,
@@ -4704,9 +4436,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 1,
     "region": 1,
@@ -4762,9 +4492,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 7,
     "city": 1,
     "region": 1,
@@ -4803,9 +4531,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 17,
     "city": 2,
     "region": 1,
@@ -4834,9 +4560,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -4880,9 +4604,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 3,
     "region": 1,
@@ -4936,9 +4658,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 8,
     "city": 1,
     "region": 1,
@@ -4974,9 +4694,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 12,
     "city": 13,
     "region": 1,
@@ -5029,9 +4747,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 9,
     "city": 1,
     "region": 1,
@@ -5052,11 +4768,7 @@
         "value": "югозападно"
       }
     ],
-    "images": [
-      "image_4749_03.jpg",
-      "image_4749_02.jpg",
-      "image_4749_01.jpg"
-    ]
+    "images": ["image_4749_03.jpg", "image_4749_02.jpg", "image_4749_01.jpg"]
   },
   {
     "legacy_id": 4755,
@@ -5064,9 +4776,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 14,
     "city": 1,
     "region": 1,
@@ -5111,9 +4821,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -5153,9 +4861,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 1,
     "region": 1,
@@ -5212,9 +4918,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -5261,9 +4965,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 9,
     "region": 1,
@@ -5309,9 +5011,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 2,
     "region": 1,
@@ -5362,9 +5062,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -5389,11 +5087,7 @@
         "value": "запад"
       }
     ],
-    "images": [
-      "image_4899_03.jpg",
-      "image_4899_02.jpg",
-      "image_4899_01.jpg"
-    ]
+    "images": ["image_4899_03.jpg", "image_4899_02.jpg", "image_4899_01.jpg"]
   },
   {
     "legacy_id": 4905,
@@ -5401,9 +5095,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 19,
     "city": 4,
     "region": 1,
@@ -5419,10 +5111,7 @@
       }
     ],
     "features": [],
-    "images": [
-      "image_4905_02.jpg",
-      "image_4905_01.jpg"
-    ]
+    "images": ["image_4905_02.jpg", "image_4905_01.jpg"]
   },
   {
     "legacy_id": 5393,
@@ -5430,9 +5119,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -5488,9 +5175,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -5534,9 +5219,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -5546,7 +5229,7 @@
       {
         "children": [
           {
-            "text": "Hayatis Estates представя на вашето внимание тристаен апартамент под наем в широк център на град Свиленград. Имотът се намира в кооперация , на първи жилищен етаж, в близост до училища,паркове за отдих, на метри от централната улица на града.\r\n\r\nЖилището е с квадратура от 80 кв.м., като се състои от коридор, дневна с кухненски бокс и тераса, две спални, баня, тоалетна,мокро помещение. Имотът е напълно обзаведен, достатъчно просторен, съчетаващ топли цветови нюанси, които допринасят за уюта на това жилище.\r\n\r\nОтличната локация, пространството и доброто разпределение, превръщат този апартамент в  прекрасен избор за вас,търсещи имот за дългосрочно наемане!\r\n\r\nНаемна цена: 550 евро"
+            "text": "Hayatis Estates представя на вашето внимание тристаен апартамент под наем в широк център на град Свиленград. Имотът се намира в кооперация , на първи жилищен етаж, в близост до училища,паркове за отдих, на метри от централната улица на града.\r\n\r\nЖилището е с квадратура от 80 кв.м., като се състои от коридор, дневна с кухненски бокс и тераса, две спални, баня, тоалетна,мокро помещение. Имотът е напълно обзаведен, достатъчно просторен, съчетаващ топли цветови нюанси, които допринасят за уюта на това жилище.\r\n\r\nОтличната локация, пространството и доброто разпределение, превръщат този апартамент в  прекрасен избор за Вас,търсещи имот за дългосрочно наемане!\r\n\r\nНаемна цена: 550 евро"
           }
         ]
       }
@@ -5582,9 +5265,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -5631,9 +5312,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 2,
     "region": 1,
@@ -5679,9 +5358,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 12,
     "city": 14,
     "region": 2,
@@ -5720,10 +5397,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent",
-      "for_sale"
-    ],
+    "purpose": ["for_rent", "for_sale"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -5762,9 +5436,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 9,
     "region": 1,
@@ -5808,9 +5480,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -5854,9 +5524,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -5901,9 +5569,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 13,
     "city": 1,
     "region": 1,
@@ -5939,9 +5605,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -5988,9 +5652,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 7,
     "city": 1,
     "region": 1,
@@ -6025,9 +5687,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 14,
     "city": 1,
     "region": 1,
@@ -6073,9 +5733,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -6123,9 +5781,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 1,
     "city": 1,
     "region": 1,
@@ -6164,9 +5820,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -6210,9 +5864,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 14,
     "city": 1,
     "region": 1,
@@ -6254,9 +5906,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 15,
     "city": 1,
     "region": 1,
@@ -6301,9 +5951,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -6351,9 +5999,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -6363,7 +6009,7 @@
       {
         "children": [
           {
-            "text": "Hayatis Estates представя двустаен апартамент под наем в град Свиленград. Имотът се намира в саниран панелен блок на първи жилищен етаж.\r\n\r\nЖилището е с разпределение- коридор, дневна със затворена тераса, спалня, кухня с кът за хранене, баня и тоалетна. Имотът е след основен ремонт и отдаващ се с всичко необходимо за вашето спокойно живеене.\r\n\r\nИмотът е с много добра локация, достатъчно места за паркиране, в близост до хранителни магазини и заведения.\r\n\r\nАко този имот представлява интерес за вас, обадете се сега!\r\n\r\n\r\n\r\n"
+            "text": "Hayatis Estates представя двустаен апартамент под наем в град Свиленград. Имотът се намира в саниран панелен блок на първи жилищен етаж.\r\n\r\nЖилището е с разпределение- коридор, дневна със затворена тераса, спалня, кухня с кът за хранене, баня и тоалетна. Имотът е след основен ремонт и отдаващ се с всичко необходимо за вашето спокойно живеене.\r\n\r\nИмотът е с много добра локация, достатъчно места за паркиране, в близост до хранителни магазини и заведения.\r\n\r\nАко този имот представлява интерес за Вас, обадете се сега!\r\n\r\n\r\n\r\n"
           }
         ]
       }
@@ -6397,9 +6043,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -6443,9 +6087,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -6489,9 +6131,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 17,
     "city": 12,
     "region": 1,
@@ -6507,10 +6147,7 @@
       }
     ],
     "features": [],
-    "images": [
-      "image_5768_02.jpg",
-      "image_5768_01.jpg"
-    ]
+    "images": ["image_5768_02.jpg", "image_5768_01.jpg"]
   },
   {
     "legacy_id": 5771,
@@ -6518,9 +6155,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -6573,9 +6208,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 9,
     "city": 1,
     "region": 1,
@@ -6585,17 +6218,13 @@
       {
         "children": [
           {
-            "text": "Представяме на вашето внимание УПИ с търговски обект за продажба в град Свиленград. Имотът се намира в непосредствена близост до гръцката граница, ЖП Гарата, на главна улица.\r\n\r\nПоземленият имот е с площ от 413 кв.м., като начин на трайно ползване на имота е - ниско застрояване ( до 10м.), търговският обект е с предназначение - сграда за търговия и е с площ от 92 кв.м.\r\n\r\nТози имот е подходящ както за търговска дейност, така и за лично ползване. Добрата му локация, достатъчното пространство и лицето на главната улица го превърщат в много добра инвестиционна възможност.\r\n\r\nАко този имот представлява интерес за вас, obадете се сега!\r\n\r\nЦена- По договаряне!"
+            "text": "Представяме на вашето внимание УПИ с търговски обект за продажба в град Свиленград. Имотът се намира в непосредствена близост до гръцката граница, ЖП Гарата, на главна улица.\r\n\r\nПоземленият имот е с площ от 413 кв.м., като начин на трайно ползване на имота е - ниско застрояване ( до 10м.), търговският обект е с предназначение - сграда за търговия и е с площ от 92 кв.м.\r\n\r\nТози имот е подходящ както за търговска дейност, така и за лично ползване. Добрата му локация, достатъчното пространство и лицето на главната улица го превърщат в много добра инвестиционна възможност.\r\n\r\nАко този имот представлява интерес за Вас, obадете се сега!\r\n\r\nЦена- По договаряне!"
           }
         ]
       }
     ],
     "features": [],
-    "images": [
-      "image_5787_03.jpg",
-      "image_5787_02.jpg",
-      "image_5787_01.jpg"
-    ]
+    "images": ["image_5787_03.jpg", "image_5787_02.jpg", "image_5787_01.jpg"]
   },
   {
     "legacy_id": 5793,
@@ -6603,9 +6232,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 2,
     "region": 1,
@@ -6657,9 +6284,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 11,
     "city": 1,
     "region": 1,
@@ -6688,9 +6313,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 11,
     "region": 1,
@@ -6739,9 +6362,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 14,
     "city": 1,
     "region": 1,
@@ -6792,9 +6413,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 1,
     "region": 1,
@@ -6840,9 +6459,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -6888,9 +6505,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -6936,9 +6551,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -6984,9 +6597,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 15,
     "region": 2,
@@ -7026,9 +6637,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 19,
     "city": 1,
     "region": 1,
@@ -7044,9 +6653,7 @@
       }
     ],
     "features": [],
-    "images": [
-      "image_6061_01.jpg"
-    ]
+    "images": ["image_6061_01.jpg"]
   },
   {
     "legacy_id": 6063,
@@ -7054,9 +6661,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 17,
     "city": 10,
     "region": 1,
@@ -7072,10 +6677,7 @@
       }
     ],
     "features": [],
-    "images": [
-      "image_6063_02.jpg",
-      "image_6063_01.jpg"
-    ]
+    "images": ["image_6063_02.jpg", "image_6063_01.jpg"]
   },
   {
     "legacy_id": 6067,
@@ -7083,9 +6685,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 14,
     "city": 1,
     "region": 1,
@@ -7129,9 +6729,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 19,
     "city": 4,
     "region": 1,
@@ -7147,10 +6745,7 @@
       }
     ],
     "features": [],
-    "images": [
-      "image_6078_02.jpg",
-      "image_6078_01.jpg"
-    ]
+    "images": ["image_6078_02.jpg", "image_6078_01.jpg"]
   },
   {
     "legacy_id": 6082,
@@ -7158,9 +6753,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -7203,9 +6796,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -7243,9 +6834,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 14,
     "city": 1,
     "region": 1,
@@ -7290,9 +6879,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -7332,9 +6919,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 9,
     "region": 1,
@@ -7373,9 +6958,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 17,
     "city": 1,
     "region": 1,
@@ -7385,17 +6968,13 @@
       {
         "children": [
           {
-            "text": "Hayatis Estates представя урегулиран поземлен имот за продажба в град Свиленград. Имотът се намира в квартал \" Гебран\", тиха и спокойна улица с лесен достъп.\r\n\r\nИмотът е с площ е от 688 кв.м. с начин на трайно ползване: Ниско застрояване ( до 10м.). Имотът е подходящ както за жилищно застрояване, така и с инвестиционна цел.\r\n\r\nАко този имот представлява интерес за вас, не се колебайте да ни потърсите!"
+            "text": "Hayatis Estates представя урегулиран поземлен имот за продажба в град Свиленград. Имотът се намира в квартал \" Гебран\", тиха и спокойна улица с лесен достъп.\r\n\r\nИмотът е с площ е от 688 кв.м. с начин на трайно ползване: Ниско застрояване ( до 10м.). Имотът е подходящ както за жилищно застрояване, така и с инвестиционна цел.\r\n\r\nАко този имот представлява интерес за Вас, не се колебайте да ни потърсите!"
           }
         ]
       }
     ],
     "features": [],
-    "images": [
-      "image_6138_03.jpg",
-      "image_6138_02.jpg",
-      "image_6138_01.jpg"
-    ]
+    "images": ["image_6138_03.jpg", "image_6138_02.jpg", "image_6138_01.jpg"]
   },
   {
     "legacy_id": 6143,
@@ -7403,9 +6982,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 7,
     "city": 1,
     "region": 1,
@@ -7440,9 +7017,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -7483,9 +7058,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 6,
     "city": 1,
     "region": 1,
@@ -7521,9 +7094,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -7562,9 +7133,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -7610,9 +7179,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -7622,7 +7189,7 @@
       {
         "children": [
           {
-            "text": "Hayatis Estates представя двустаен апартамент под наем в град Свиленград. Имотът се намира на четвърти жилищен етаж от пететажен блок без асансьор. Жилището е с много добра локация, в близост до хранителни магазини, бързо хранене, аптеки.\r\n\r\nАпартаментът е със следното разпределение: коридор, дневна, кухня с трапезария, спалня,тераса, баня и тоалетна. Имотът е оборудван с всичко необходимо за вашето спокойно живеене.\r\n\r\nАко този имот представлява интерес за вас , не се колебайте да ни потърсите, за да ви покажем това прекрасно жилище."
+            "text": "Hayatis Estates представя двустаен апартамент под наем в град Свиленград. Имотът се намира на четвърти жилищен етаж от пететажен блок без асансьор. Жилището е с много добра локация, в близост до хранителни магазини, бързо хранене, аптеки.\r\n\r\nАпартаментът е със следното разпределение: коридор, дневна, кухня с трапезария, спалня,тераса, баня и тоалетна. Имотът е оборудван с всичко необходимо за вашето спокойно живеене.\r\n\r\nАко този имот представлява интерес за Вас , не се колебайте да ни потърсите, за да ви покажем това прекрасно жилище."
           }
         ]
       }
@@ -7649,9 +7216,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -7700,9 +7265,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 19,
     "city": 1,
     "region": 1,
@@ -7718,9 +7281,7 @@
       }
     ],
     "features": [],
-    "images": [
-      "image_6206_01.jpg"
-    ]
+    "images": ["image_6206_01.jpg"]
   },
   {
     "legacy_id": 6217,
@@ -7728,9 +7289,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 15,
     "city": 6,
     "region": 1,
@@ -7740,7 +7299,7 @@
       {
         "children": [
           {
-            "text": "Представяме ви  двуетажна къща под наем в с. Генералово, община Свиленград. Имотът се намира в непосредствена близост до ГКПП “ Капитан Андреево”, на 10 минути разстояние с кола от град Свиленград.\r\n\r\nВсеки етаж е самостоятелен един от друг ,с отделен вход и  вариант за паркиране в дворното място. Първият етаж е със следното разпределение:  дневна с трапезария, кухненски бокс, две спални помещения, две бани с тоалетни.\r\n\r\nВтори етаж: коридор , дневна с кухня и трапезария, кът с мека мебел, две спални помещения, баня и тоалетна, тераса, разкриваща прекрасни гледки.\r\n\r\nИмотът е оборудван с всичко необходимо, за да осигури едно спокойно живеене, изцяло реновиран и предлагащ уют и спокойствие, далеч от градския шум.\r\n\r\nВсеки етаж може да бъде нает и поотделно!\r\n\r\nПодходяща е и за работни групи!\r\n\r\nАко този имот представлява интерес за вас, не се колебайте да ни потърсите!\r\n\r\nЦена на цялата къща: 760 евро\r\n\r\nЦена на етаж: 380 евро\r\n\r\n\r\n\r\n"
+            "text": "Представяме ви  двуетажна къща под наем в с. Генералово, община Свиленград. Имотът се намира в непосредствена близост до ГКПП “ Капитан Андреево”, на 10 минути разстояние с кола от град Свиленград.\r\n\r\nВсеки етаж е самостоятелен един от друг ,с отделен вход и  вариант за паркиране в дворното място. Първият етаж е със следното разпределение:  дневна с трапезария, кухненски бокс, две спални помещения, две бани с тоалетни.\r\n\r\nВтори етаж: коридор , дневна с кухня и трапезария, кът с мека мебел, две спални помещения, баня и тоалетна, тераса, разкриваща прекрасни гледки.\r\n\r\nИмотът е оборудван с всичко необходимо, за да осигури едно спокойно живеене, изцяло реновиран и предлагащ уют и спокойствие, далеч от градския шум.\r\n\r\nВсеки етаж може да бъде нает и поотделно!\r\n\r\nПодходяща е и за работни групи!\r\n\r\nАко този имот представлява интерес за Вас, не се колебайте да ни потърсите!\r\n\r\nЦена на цялата къща: 760 евро\r\n\r\nЦена на етаж: 380 евро\r\n\r\n\r\n\r\n"
           }
         ]
       }
@@ -7772,9 +7331,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -7822,9 +7379,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 10,
     "region": 1,
@@ -7870,9 +7425,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 17,
     "city": 1,
     "region": 1,
@@ -7893,10 +7446,7 @@
         "value": "неасфалтиран път"
       }
     ],
-    "images": [
-      "image_6253_02.jpg",
-      "image_6253_01.jpg"
-    ]
+    "images": ["image_6253_02.jpg", "image_6253_01.jpg"]
   },
   {
     "legacy_id": 6256,
@@ -7904,9 +7454,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -7958,9 +7506,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 5,
     "city": 1,
     "region": 1,
@@ -7999,9 +7545,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -8050,9 +7594,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 7,
     "city": 1,
     "region": 1,
@@ -8077,11 +7619,7 @@
         "value": "Акт 14 (очакван пусков срок - средата на 2026)"
       }
     ],
-    "images": [
-      "image_6280_03.jpg",
-      "image_6280_02.jpg",
-      "image_6280_01.jpg"
-    ]
+    "images": ["image_6280_03.jpg", "image_6280_02.jpg", "image_6280_01.jpg"]
   },
   {
     "legacy_id": 6286,
@@ -8089,9 +7627,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 7,
     "city": 1,
     "region": 1,
@@ -8131,9 +7667,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 10,
     "region": 1,
@@ -8178,9 +7712,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -8190,7 +7722,7 @@
       {
         "children": [
           {
-            "text": "Hayatis Estates представя двустаен апартамент за продажба в град Свиленград. Имотът се намира на първи жилищен етаж от кооперация в близост до училища, хранителни магазини, на 10 минути пешеходно разстояние от централната градска част.\r\n\r\nАпартаментът е с квадратура от 67,50 кв.м. чиста площ, както и има прилежащо избено помещение с квадратура от 3,30 кв.м. Имотът е със следното разпределение: коридор, дневн с кухненски бокс и трапезария,тераса, баня и тоалетна, спалня с излаз към терасата. Жилището е с южно изложение, напълно обзаведен и оборудвано с всички необходими мебели и електроуреди.\r\n\r\nАпартаментът към момента има дългосрочни наематели, което го прави и една много добра сделка за хора, които търсят имот с цел инвестиция.\r\n\r\nАко този имот представлява интерес за вас, обадете се да ви покажем този апартамент!"
+            "text": "Hayatis Estates представя двустаен апартамент за продажба в град Свиленград. Имотът се намира на първи жилищен етаж от кооперация в близост до училища, хранителни магазини, на 10 минути пешеходно разстояние от централната градска част.\r\n\r\nАпартаментът е с квадратура от 67,50 кв.м. чиста площ, както и има прилежащо избено помещение с квадратура от 3,30 кв.м. Имотът е със следното разпределение: коридор, дневн с кухненски бокс и трапезария,тераса, баня и тоалетна, спалня с излаз към терасата. Жилището е с южно изложение, напълно обзаведен и оборудвано с всички необходими мебели и електроуреди.\r\n\r\nАпартаментът към момента има дългосрочни наематели, което го прави и една много добра сделка за хора, които търсят имот с цел инвестиция.\r\n\r\nАко този имот представлява интерес за Вас, обадете се да ви покажем този апартамент!"
           }
         ]
       }
@@ -8229,9 +7761,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 1,
     "region": 1,
@@ -8241,7 +7771,7 @@
       {
         "children": [
           {
-            "text": "Hayatis Estates представя на вашето внимание еднофамилна къща за продажба в идеален център, на метри от детски градини, училища, хранителни магазини. Имотът е с отлична локация и лице към главен път.\r\n\r\nПлощта на имота е 281 кв.м.,  ЗП е 103 кв.м., като жилищната част е 71 кв.м. с пристроена част от 25 кв.м. и селскостопанска постройка 7 кв.м. Разпределението на къщата е следното - салон, две спални и кухня. Към допълнителната постройка има обособена баня с тоалетна и стая. Къщата има ток, вода и канализация.\r\n\r\nИмотът е изключително подходящ за лично ползване и преустройството му в един прекрасен бъдещ дом, който предлага много възможности за осъществяване на вашите идеи за мечтаната къща. Освен перфектната локация, районът е с ниско застрояване.\r\n\r\nАко този имот представлява интерес за вас, обадете се да ви покажем тази кокетна къщичка.\r\n\r\nЦена: 128 000 евро"
+            "text": "Hayatis Estates представя на вашето внимание еднофамилна къща за продажба в идеален център, на метри от детски градини, училища, хранителни магазини. Имотът е с отлична локация и лице към главен път.\r\n\r\nПлощта на имота е 281 кв.м.,  ЗП е 103 кв.м., като жилищната част е 71 кв.м. с пристроена част от 25 кв.м. и селскостопанска постройка 7 кв.м. Разпределението на къщата е следното - салон, две спални и кухня. Към допълнителната постройка има обособена баня с тоалетна и стая. Къщата има ток, вода и канализация.\r\n\r\nИмотът е изключително подходящ за лично ползване и преустройството му в един прекрасен бъдещ дом, който предлага много възможности за осъществяване на вашите идеи за мечтаната къща. Освен перфектната локация, районът е с ниско застрояване.\r\n\r\nАко този имот представлява интерес за Вас, обадете се да ви покажем тази кокетна къщичка.\r\n\r\nЦена: 128 000 евро"
           }
         ]
       }
@@ -8261,9 +7791,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -8305,9 +7833,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 17,
     "city": 1,
     "region": 1,
@@ -8317,7 +7843,7 @@
       {
         "children": [
           {
-            "text": "Представяме на вашето внимание урегулиран поземлен имот за обезщетение, находящ се в град Свиленград. Имотът е с прекрасна локация, на метри от Стария мост на града, в близост до Общината, заведения, детски площадки, паркове за отдих.\r\n\r\nИмотът е с площ от 299 кв.м., като в имота има жилищна еднофамилна сграда с квадратура от 47 кв.м., показателите на застрояване са: Плътност на застрояване - 60 %, Кинт - 1.2, озеленени площи - 40 %.\r\n\r\nСтратегическата му локация го превръща в добра оферта за вашите инвестиционни намерения! Ако този имот представлява интерес за вас и искате да обсъдим детайлите, свържете се с нас!"
+            "text": "Представяме на вашето внимание урегулиран поземлен имот за обезщетение, находящ се в град Свиленград. Имотът е с прекрасна локация, на метри от Стария мост на града, в близост до Общината, заведения, детски площадки, паркове за отдих.\r\n\r\nИмотът е с площ от 299 кв.м., като в имота има жилищна еднофамилна сграда с квадратура от 47 кв.м., показателите на застрояване са: Плътност на застрояване - 60 %, Кинт - 1.2, озеленени площи - 40 %.\r\n\r\nСтратегическата му локация го превръща в добра оферта за вашите инвестиционни намерения! Ако този имот представлява интерес за Вас и искате да обсъдим детайлите, свържете се с нас!"
           }
         ]
       }
@@ -8336,9 +7862,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -8380,9 +7904,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -8419,9 +7941,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 1,
     "region": 1,
@@ -8481,9 +8001,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 19,
     "city": 8,
     "region": 1,
@@ -8513,9 +8031,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 9,
     "city": 1,
     "region": 1,
@@ -8546,9 +8062,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -8558,7 +8072,7 @@
       {
         "children": [
           {
-            "text": "Представяме на вашето внимание двуstaен апартамент под наем в широк център на град Свиленград. Иmotът е с отлична локация, намира се в спокоен и комуникативен район, на 10 минути пеша от централната градска част, в близост до детска градина, магазини.\r\n\r\nЖилището е с чиста площ от 58,29 кв.м, разположен на първи жилищен етаж в нова кооперация. Иmotът е с югоизточно изложение, което осигурява светлина и уют през целия ден. Апартаментът е със следното разпределение - антре, дневна с кухня и трапезария, тераса, спалня.\r\n\r\nАпартаментът е напълно обзаведен и е оборудван с всичко необходимо за спокойно живеене. Интериорът е решен в цветова гама бяло, дървесно и кафяво, което допринася още повече за уюта, който предлага.\r\n\r\nАко този апартамент представлява интерес за вас, обадете се!"
+            "text": "Представяме на вашето внимание двуstaен апартамент под наем в широк център на град Свиленград. Иmotът е с отлична локация, намира се в спокоен и комуникативен район, на 10 минути пеша от централната градска част, в близост до детска градина, магазини.\r\n\r\nЖилището е с чиста площ от 58,29 кв.м, разположен на първи жилищен етаж в нова кооперация. Иmotът е с югоизточно изложение, което осигурява светлина и уют през целия ден. Апартаментът е със следното разпределение - антре, дневна с кухня и трапезария, тераса, спалня.\r\n\r\nАпартаментът е напълно обзаведен и е оборудван с всичко необходимо за спокойно живеене. Интериорът е решен в цветова гама бяло, дървесно и кафяво, което допринася още повече за уюта, който предлага.\r\n\r\nАко този апартамент представлява интерес за Вас, обадете се!"
           }
         ]
       }
@@ -8594,9 +8108,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -8639,9 +8151,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 17,
     "city": 7,
     "region": 1,
@@ -8651,7 +8161,7 @@
       {
         "children": [
           {
-            "text": "Представяме на вашето внимание урегулиран поземлен имот с постройка, подходяща за отглеждане на животни и допълнително земеделска земя в с. Студена, област Хасково. Имотът се намира в близост до пасище, трафопост, както и лесен достъп до самия имот, граничещ с пътна настилка.\r\n\r\nЗемеделската земя е 4 категория с площ от 9 400 кв.м, а застроената площ е с квадратура от  1 992 кв.м,  начин на трайно ползване - за животновъден комплекс. В имота има партиди за ток, вода, както и трифазен ток. Изпълнявало е функция на козеферма, след това кравеферма , но е подходящо за всякакъв вид дейност свързана с отглеждане на животни, заради близостта на имота до пасище, както и обособените помещения за този вид дейност.\r\n\r\nИмотът е подходящ и за поставяне на фотоволтъчни централи, заради близостта му до трафопост, както и за всякакъв вид фермерско стопанство, агро-бизнес или друг вид инвестиционна дейност. Районът е спокоен и екологично чист.\r\n\r\nАко този имот представлява интерес за вас и виждате потенциала му, не се колебайте да ни потърсите, за да ви дадем повече информация.\r\n\r\n"
+            "text": "Представяме на вашето внимание урегулиран поземлен имот с постройка, подходяща за отглеждане на животни и допълнително земеделска земя в с. Студена, област Хасково. Имотът се намира в близост до пасище, трафопост, както и лесен достъп до самия имот, граничещ с пътна настилка.\r\n\r\nЗемеделската земя е 4 категория с площ от 9 400 кв.м, а застроената площ е с квадратура от  1 992 кв.м,  начин на трайно ползване - за животновъден комплекс. В имота има партиди за ток, вода, както и трифазен ток. Изпълнявало е функция на козеферма, след това кравеферма , но е подходящо за всякакъв вид дейност свързана с отглеждане на животни, заради близостта на имота до пасище, както и обособените помещения за този вид дейност.\r\n\r\nИмотът е подходящ и за поставяне на фотоволтъчни централи, заради близостта му до трафопост, както и за всякакъв вид фермерско стопанство, агро-бизнес или друг вид инвестиционна дейност. Районът е спокоен и екологично чист.\r\n\r\nАко този имот представлява интерес за Вас и виждате потенциала му, не се колебайте да ни потърсите, за да ви дадем повече информация.\r\n\r\n"
           }
         ]
       }
@@ -8674,9 +8184,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 6,
     "region": 1,
@@ -8715,9 +8223,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -8754,9 +8260,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 1,
     "city": 1,
     "region": 1,
@@ -8795,9 +8299,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -8807,7 +8309,7 @@
       {
         "children": [
           {
-            "text": "Hayatis Estates представя за продажба тртаен апартамент, разположен на трети жилищен етаж от четириетажна жилищна сграда с гаражи на партерно ниво, без асансьор. Сградата е завършена 2017г. с отлично поддържани общи части, в тих и спокоен район на град Свиленград. Локацията е отлична, в близост до паркове, детска градина, супермаркети, детски площадки,на  пешеходно разстояние от централната градска част.\r\n\r\nАпартаментът е със застроена площ от 94,64 кв.м, общи части равняващи се на 9,5 % и идеални части от правото на строеж върху терена. Жилището е със следното разпределение: коридор, дневна с трапезария и кухня,тераса, две спални, баня и тоалетна, тоалетна. Оборудван е с всички необходими електроуреди и мебели, което го прави готов за нанасяне без нужда от ремонтни дейности. Отоплението е на климатици, като има и инсталирана отоплителна система за парно / на ток, водна риза или пелети/. Стаите са изключително просторни, има окачени тавани със скрито осветление, декоративни елементи на стените, достатъчно светли части и прекрасното югоизточно изложение!\r\n\r\nИмотът предлага съвременен дизайн,пълно оборудване и много пространство.\r\n\r\nАко този имот представлява интерес за вас, не се колебайте да се свържете с нас!"
+            "text": "Hayatis Estates представя за продажба тртаен апартамент, разположен на трети жилищен етаж от четириетажна жилищна сграда с гаражи на партерно ниво, без асансьор. Сградата е завършена 2017г. с отлично поддържани общи части, в тих и спокоен район на град Свиленград. Локацията е отлична, в близост до паркове, детска градина, супермаркети, детски площадки,на  пешеходно разстояние от централната градска част.\r\n\r\nАпартаментът е със застроена площ от 94,64 кв.м, общи части равняващи се на 9,5 % и идеални части от правото на строеж върху терена. Жилището е със следното разпределение: коридор, дневна с трапезария и кухня,тераса, две спални, баня и тоалетна, тоалетна. Оборудван е с всички необходими електроуреди и мебели, което го прави готов за нанасяне без нужда от ремонтни дейности. Отоплението е на климатици, като има и инсталирана отоплителна система за парно / на ток, водна риза или пелети/. Стаите са изключително просторни, има окачени тавани със скрито осветление, декоративни елементи на стените, достатъчно светли части и прекрасното югоизточно изложение!\r\n\r\nИмотът предлага съвременен дизайн,пълно оборудване и много пространство.\r\n\r\nАко този имот представлява интерес за Вас, не се колебайте да се свържете с нас!"
           }
         ]
       }
@@ -8851,9 +8353,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -8901,9 +8401,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -8951,9 +8449,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -8998,9 +8494,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 3,
     "city": 1,
     "region": 1,
@@ -9044,9 +8538,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -9080,9 +8572,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 5,
     "region": 1,
@@ -9129,9 +8619,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -9166,9 +8654,7 @@
     "isAvailable": "false",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_rent"
-    ],
+    "purpose": ["for_rent"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -9204,9 +8690,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 15,
     "city": 4,
     "region": 1,
@@ -9253,9 +8737,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 7,
     "city": 1,
     "region": 1,
@@ -9290,9 +8772,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 2,
     "city": 1,
     "region": 1,
@@ -9332,9 +8812,7 @@
     "isAvailable": "true",
     "isArchived": "false",
     "isFeatured": "false",
-    "purpose": [
-      "for_sale"
-    ],
+    "purpose": ["for_sale"],
     "category": 9,
     "city": 1,
     "region": 1,

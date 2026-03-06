@@ -12,10 +12,11 @@ import {
   PopoverContent,
   PopoverTrigger,
 } from "@/components/ui/popover";
-import { buttonVariants } from "@/components/ui/button";
 import { PhoneIcon } from "@phosphor-icons/react";
 import { GoldLine } from "../ui/gold-line";
 import { GoldButton } from "../ui/gold-button";
+import { ContactPopup } from "./contact-popup";
+import { ContactPage } from "@/payload-types";
 
 interface Category {
   id: number;
@@ -24,9 +25,10 @@ interface Category {
 
 interface HeaderClientProps {
   categories: Category[];
+  contact: ContactPage;
 }
 
-export function HeaderClient({ categories }: HeaderClientProps) {
+export function HeaderClient({ categories, contact }: HeaderClientProps) {
   const { scrollY } = useScroll();
   const pathname = usePathname();
   const [showSticky, setShowSticky] = useState(false);
@@ -219,28 +221,13 @@ export function HeaderClient({ categories }: HeaderClientProps) {
           <div className="w-full px-6 py-4 rounded-xl flex items-center justify-between pointer-events-auto">
             {/* Logo is commented out in Hero Header per user request/current state */}
             {/* Spacer to keep layout balanced if needed, or just empty */}
-
-            <Link
-              href="tel:+359882643334"
-              className="lg:flex cursor-pointer text-white gap-4 items-center hidden"
-            >
-              <GoldButton
-                as="div"
-                className="p-0 h-10 w-10 rounded-md"
-                borderWidth={2}
-              >
-                <PhoneIcon size={25} className="text-white" />
-              </GoldButton>
-              <p>свържи се с нас</p>
-            </Link>
-            <GoldButton
-              as="link"
-              href="tel:+359882643334"
-              borderWidth={2}
-              className="flex items-center justify-center p-0! h-12 w-12 rounded-md lg:hidden"
-            >
-              <PhoneIcon size={25} weight="light" className="text-white" />
-            </GoldButton>
+            <div>
+              <ContactPopup
+                contact={contact}
+                label="свържи се с нас"
+                align="start"
+              />
+            </div>
             <div className="lg:hidden flex items-center gap-2">
               <StickyMenu />
             </div>
@@ -256,14 +243,9 @@ export function HeaderClient({ categories }: HeaderClientProps) {
         transition={{ duration: 0.3, ease: "easeInOut", type: "tween" }}
         className="fixed top-3 left-1/2 -translate-x-1/2 z-50 shadow-2xl/30 md:w-[calc(100vw-7rem)] w-[calc(100vw-2rem)] bg-background backdrop-blur-sm rounded-xl px-2 md:px-3 py-2 md:py-3 flex items-center justify-between"
       >
-        <GoldButton
-          as="link"
-          href="tel:+359882643334"
-          borderWidth={2}
-          className="w-12 h-12 rounded-md lg:hidden flex items-center justify-center bg-foreground shadow-md/30 hover:bg-foreground"
-        >
-          <PhoneIcon size={25} weight="light" className="text-white" />
-        </GoldButton>
+        <div className="lg:hidden">
+          <ContactPopup contact={contact} />
+        </div>
         <Link
           href="/"
           className="font-bold text-xl flex items-center justify-center gap-0 flex-col cursor-pointer"
@@ -279,18 +261,7 @@ export function HeaderClient({ categories }: HeaderClientProps) {
         </Link>
         <div className="lg:flex items-center gap-4 hidden">
           <DesktopMenu />
-          <GoldButton
-            as="link"
-            href="tel:+359882643334"
-            className="group flex items-center justify-center p-0 h-12 w-12 rounded-md bg-foreground hover:bg-foreground shadow-md/20 hover:shadow-lg/40 transition-all ease-in-out duration-300 "
-            borderWidth={2}
-          >
-            <PhoneIcon
-              size={25}
-              weight="bold"
-              className="text-white transition-transform duration-300"
-            />
-          </GoldButton>
+          <ContactPopup contact={contact} align="end" />
         </div>
         <StickyMenu />
       </motion.header>

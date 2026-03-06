@@ -16,13 +16,20 @@ export const Properties: CollectionConfig = {
     defaultColumns: ["title", "status", "createdAt"],
     useAsTitle: "title",
     group: "Администрация",
+    components: {
+      edit: {
+        beforeDocumentControls: [
+          "/components/admin/VisitPropertyButton#VisitPropertyButton",
+        ],
+      },
+    },
   },
   hooks: {
-    // afterChange: [
-    //   () => {
-    //     revalidateTag("properties");
-    //   },
-    // ],
+    afterChange: [
+      () => {
+        revalidateTag("properties");
+      },
+    ],
     beforeDelete: [
       async ({ req, id }) => {
         const relatedRequests = await req.payload.find({
@@ -62,6 +69,7 @@ export const Properties: CollectionConfig = {
               name: "legacy_id",
               label: "Идентификатор",
               admin: {
+                hidden: true,
                 readOnly: true,
               },
             },
@@ -90,49 +98,11 @@ export const Properties: CollectionConfig = {
                       unique: true,
                       admin: {
                         readOnly: true,
-                        width: "25%",
+                        width: "50%",
                       },
                       hooks: {
                         beforeValidate: [formatSlug("title", "id")],
                       },
-                    },
-                    {
-                      name: "isAvailable",
-                      type: "select",
-                      label: "Налично",
-                      admin: {
-                        width: "25%",
-                      },
-                      options: [
-                        {
-                          label: "Да",
-                          value: "true",
-                        },
-                        {
-                          label: "Няма",
-                          value: "false",
-                        },
-                      ],
-                      defaultValue: "true",
-                    },
-                    {
-                      name: "isArchived",
-                      type: "select",
-                      label: "Архивирано",
-                      admin: {
-                        width: "25%",
-                      },
-                      options: [
-                        {
-                          label: "Да",
-                          value: "true",
-                        },
-                        {
-                          label: "Не",
-                          value: "false",
-                        },
-                      ],
-                      defaultValue: "false",
                     },
                   ],
                 },
@@ -147,16 +117,55 @@ export const Properties: CollectionConfig = {
                       defaultValue: ({ user }) => user?.id,
                       admin: {
                         width: "50%",
+                        hidden: true,
                       },
+                    },
+                    {
+                      name: "isAvailable",
+                      type: "select",
+                      label: "Налично",
+                      admin: {
+                        width: "33.33%",
+                      },
+                      options: [
+                        {
+                          label: "Да",
+                          value: "true",
+                        },
+                        {
+                          label: "Не",
+                          value: "false",
+                        },
+                      ],
+                      defaultValue: "true",
                     },
                     {
                       type: "select",
                       admin: {
-                        width: "50%",
+                        width: "33.33%",
                       },
                       name: "isFeatured",
                       label: "Обява на фокус",
                       options: propertyIsFeaturedSelect,
+                      defaultValue: "false",
+                    },
+                    {
+                      name: "isArchived",
+                      type: "select",
+                      label: "Архивирано",
+                      admin: {
+                        width: "33.33%",
+                      },
+                      options: [
+                        {
+                          label: "Да",
+                          value: "true",
+                        },
+                        {
+                          label: "Не",
+                          value: "false",
+                        },
+                      ],
                       defaultValue: "false",
                     },
                     {
@@ -340,6 +349,9 @@ export const Properties: CollectionConfig = {
               type: "upload",
               relationTo: "media",
               hasMany: false,
+              admin: {
+                hidden: true,
+              },
             },
           ],
         },

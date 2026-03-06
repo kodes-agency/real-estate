@@ -55,7 +55,7 @@ export const AboutSection = ({ page }: { page: HomePage }) => {
             </div>
             <GoldButton
               as="link"
-              href="/"
+              href="/za-nas"
               borderWidth={2}
               className="h-12 w-full rounded-md text-white"
             >

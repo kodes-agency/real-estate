@@ -58,7 +58,7 @@ export async function submitPropertyRequest(formData: FormData) {
           const buffer = Buffer.from(arrayBuffer);
 
           const media = await payload.create({
-            collection: "media",
+            collection: "images",
             data: {
               alt: file.name,
             },

@@ -7,12 +7,12 @@ import { Metadata } from "next";
 import { PropertyFeatures } from "@/components/page/property-single/features";
 import { propertyPurposeSelect } from "@/types/payload-select";
 import { VisitRequestDialog } from "@/components/page/property-single/visit-request-dialog";
-
 import { RichText } from "@/components/global/richtext";
 import Link from "next/link";
 import { createCache, getCollectionData } from "@/lib/utils";
 import { GoldLine } from "@/components/ui/gold-line";
 import { PropertyCard } from "@/components/page/property-archive/card";
+import { ShareContainer } from "@/components/page/property-single/share";
 
 export async function generateMetadata({
   params,
@@ -29,10 +29,10 @@ export async function generateMetadata({
   }
 
   return {
-    title: property.title || "Детайли за имота",
-    description:
-      property.meta?.description ||
-      `Разгледайте този имот в ${typeof property.city === "object" ? property.city.title : ""}`,
+    title:
+      property.title + " | Hayatis Estate | Недвижими имоти" ||
+      "Hayatis Estates - Недвижими имоти Свиленград, Хасково, Гърция, България",
+    description: `Hayatis Estates предлага ${property.title}. Квадратура ${property.size} м², Цена ${property.price} €. | Недвижими имоти Свиленград, Хасково, Гърция, България`,
   };
 }
 
@@ -221,9 +221,12 @@ export default async function PropertyPage({
             id={property.id}
           />
           <div className="text-base text-black mt-10">
-            <h2 className="text-3xl font-marlet font-medium mt-4  mb-2">
-              Описание
-            </h2>
+            <div className="flex flex-col-reverse md:flex-row w-fit md:w-full md:items-center justify-between">
+              <h2 className="text-3xl font-marlet font-medium mt-4  mb-2">
+                Описание
+              </h2>
+              <ShareContainer property={property} />
+            </div>
             <RichText data={property.description} />
           </div>
           <div className="mt-10">

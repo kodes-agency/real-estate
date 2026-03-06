@@ -21,6 +21,40 @@ import {
 
 export const dynamic = "force-dynamic";
 
+export const generateMetadata = async ({
+  searchParams,
+}: {
+  searchParams: Promise<{ [key: string]: string | string[] | undefined }>;
+}) => {
+  const payload = await getPayload({ config });
+  const page = await payload.findGlobal({
+    slug: "home-page",
+  });
+  const resolvedParams = await searchParams;
+  const purpose = resolvedParams.purpose;
+
+  return {
+    title:
+      page.meta?.title ||
+      `${purpose === "for_rent" ? "Под наем" : "Продажба"} | Агенция за недвижими имоти "Hayatis Estates"`,
+    description:
+      page.meta?.description ||
+      `Разгледайте нашите предложения за недвижими имоти за ${purpose === "for_rent" ? "под наем" : "продажба"}.`,
+    keywords:
+      "имот,свиленград,хасково,гърция,българия,недвижими имоти,hayatis estates,продава,наем,апартамент,къща,паркомясто",
+    openGraph: {
+      title:
+        page.meta?.title ||
+        `${purpose === "for_rent" ? "Под наем" : "Продажба"} | Агенция за недвижими имоти "Hayatis Estates"`,
+      description:
+        page.meta?.description ||
+        `Разгледайте нашите предложения за недвижими имоти за ${purpose === "for_rent" ? "под наем" : "продажба"}.`,
+      type: "website",
+      locale: "bg-BG",
+    },
+  };
+};
+
 export default async function PropertiesPage({
   searchParams,
 }: {

@@ -23,12 +23,14 @@ import {
 import { ExportIcon } from "@phosphor-icons/react";
 
 export const ShareContainer = ({ property }: { property: Property }) => {
-  const url = "http://localhost:3000/imoti/" + property.slug;
+  const url =
+    "http://ewgo0c0koswgwk08okc0w4sg.185.175.59.66.sslip.io/imoti/" +
+    property.slug;
   return (
     <Popover>
       <PopoverTrigger
         render={
-          <button className="rounded-sm cursor-pointer border-none bg-background flex gap-1 items-center text-sm tracking-tight font-medium">
+          <button className="rounded-sm shadow-md/30 border bg-black text-white cursor-pointer flex gap-1 items-center text-sm tracking-tight font-medium border-black py-1 px-3">
             <ExportIcon size={20} />
             Сподели
           </button>

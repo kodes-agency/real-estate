@@ -4,14 +4,13 @@ import * as React from "react";
 import { useForm } from "@tanstack/react-form";
 import { toast } from "sonner";
 import { z } from "zod";
+import Link from "next/link";
 
 import { submitVisitRequest } from "@/actions/submit-visit-request";
-import { Button } from "@/components/ui/button";
 import {
   Card,
   CardContent,
   CardDescription,
-  CardFooter,
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
@@ -81,7 +80,7 @@ export function VisitRequestForm({ propertyId }: VisitRequestFormProps) {
           </div>
           <h3 className="text-xl font-semibold">Благодарим Ви!</h3>
           <p className="text-muted-foreground max-w-xs">
-            Ще се свържем с вас възможно най-скоро.
+            Ще се свържем с Вас възможно най-скоро.
           </p>
         </CardContent>
       </Card>
@@ -94,8 +93,8 @@ export function VisitRequestForm({ propertyId }: VisitRequestFormProps) {
         <CardTitle className="text-xl">Заяви оглед</CardTitle>
         <CardDescription>
           Попълнете формата по-долу, за да заявите оглед за този имот. Ние ще се
-          свържем с вас възможно най-скоро за да уточним точен час в удобен за
-          вас ден.
+          свържем с Вас възможно най-скоро за да уточним точен час в удобен за
+          Вас ден.
         </CardDescription>
       </CardHeader>
       <CardContent className="">
@@ -253,8 +252,11 @@ export function VisitRequestForm({ propertyId }: VisitRequestFormProps) {
             Изпрати заявка
           </GoldButton>
           <p className="text-center text-xs text-muted-foreground mt-4">
-            С натискането на бутона "Изпрати заявка" се съгласявате с нашите
-            общи условия и политика за поверителност.
+            С натискането на бутона "Изпрати заявка" се съгласявате с нашата{" "}
+            <Link href="/policy" className="underline">
+              политика за поверителност
+            </Link>
+            .
           </p>
         </form>
       </CardContent>

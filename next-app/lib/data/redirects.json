@@ -1,0 +1,794 @@
+[
+  {
+    "source": "/property/stilno-dvustajno-zhilisthe-v-tih-i-spokoe",
+    "destination": "/imoti/dvustaen-apartament-pod-naem-v-tih-i-spokoen-kvartal"
+  },
+  {
+    "source": "/property/etazh-ot-kastha-pod-naem",
+    "destination": "/imoti/etazh-ot-kashta-pod-naem"
+  },
+  {
+    "source": "/property/studio-pod-naem-v-czentara-na-grada",
+    "destination": "/imoti/studio-pod-naem-v-tsentara-na-grada"
+  },
+  {
+    "source": "/property/otdava-pod-naem-dvustaen-apartament",
+    "destination": "/imoti/otdava-pod-naem-dvustaen-apartament"
+  },
+  {
+    "source": "/property/tristaen-apartament-za-prodazhba-3",
+    "destination": "/imoti/dvustaen-apartament-za-prodazhba"
+  },
+  {
+    "source": "/property/chetiristaen-apartament-pod-naem-2",
+    "destination": "/imoti/chetiristaen-apartament-pod-naem"
+  },
+  {
+    "source": "/property/tristaen-mansarden-pod-naem",
+    "destination": "/imoti/tristaen-mansarden-pod-naem"
+  },
+  {
+    "source": "/property/dvustaen-apartament-za-prodazhba-3",
+    "destination": "/imoti/dvustaen-apartament-za-prodazhba-1"
+  },
+  {
+    "source": "/property/dvustaen-apartament-za-prodazhba-5",
+    "destination": "/imoti/dvustaen-apartament-za-prodazhba-2"
+  },
+  {
+    "source": "/property/otdava-se-pod-naem-targovsko-pomestheni-2",
+    "destination": "/imoti/otdava-se-pod-naem-targovsko-pomeshtenie"
+  },
+  {
+    "source": "/property/studio-pod-naem-2",
+    "destination": "/imoti/studio-pod-naem"
+  },
+  {
+    "source": "/property/prodava-se-pozemlen-imot-s-postrojka",
+    "destination": "/imoti/prodava-se-pozemlen-imot-s-postroyka"
+  },
+  {
+    "source": "/property/dvustaen-apartament-za-prodazhba-7",
+    "destination": "/imoti/dvustaen-apartament-za-prodazhba-3"
+  },
+  {
+    "source": "/property/dvustaen-obzaveden-apartament-za-pro",
+    "destination": "/imoti/dvustaen-obzaveden-apartament-za-prodazhba"
+  },
+  {
+    "source": "/property/%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b2%d0%b0-%d1%81%d0%b5-%d0%be%d1%82%d0%b4%d0%b0%d0%b2%d0%b0-%d1%81%d0%b5-%d0%bf%d0%be%d0%b4-%d0%bd%d0%b0%d0%b5%d0%bc-%d0%bc%d0%bd%d0%be%d0%b3%d0%be%d1%81%d1%82%d0%b0",
+    "destination": "/imoti/prodava-se-mnogostaen-apartament"
+  },
+  {
+    "source": "/property/tristaen-apartament-pod-naem-2",
+    "destination": "/imoti/tristaen-apartament-pod-naem"
+  },
+  {
+    "source": "/property/targovsko-pomesthenie-pod-naem-3",
+    "destination": "/imoti/targovsko-pomeshtenie-pod-naem"
+  },
+  {
+    "source": "/property/dvuetazhna-luksozna-kastha-pod-naem",
+    "destination": "/imoti/dvuetazhna-luksozna-kashta-pod-naem"
+  },
+  {
+    "source": "/property/%d0%b0%d0%bf%d0%b0%d1%80%d1%82%d0%b0%d0%bc%d0%b5%d0%bd%d1%82%d0%b8-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b1%d0%b0-%d0%b2-%d0%bd%d0%be%d0%b2%d0%be%d1%81%d1%82%d1%80%d0%be%d1%8f%d1%89-3",
+    "destination": "/imoti/apartamenti-za-prodazhba-v-novostroyashta-se-sgrada"
+  },
+  {
+    "source": "/property/tristaen-apartament-za-prodazhba-7",
+    "destination": "/imoti/tristaen-apartament-s-garazh-za-prodazhba"
+  },
+  {
+    "source": "/property/mnogostaen-apartament-za-prodazhba",
+    "destination": "/imoti/mnogostaen-apartament-za-prodazhba"
+  },
+  {
+    "source": "/property/garsoniera-pod-naem",
+    "destination": "/imoti/garsoniera-pod-naem"
+  },
+  {
+    "source": "/property/dvustaen-apartament-pod-naem-6-2",
+    "destination": "/imoti/dvustaen-apartament-pod-naem"
+  },
+  {
+    "source": "/property/%d0%bf%d0%be%d0%b7%d0%b5%d0%bc%d0%bb%d0%b5%d0%bd-%d0%b8%d0%bc%d0%be%d1%82-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b1%d0%b0-%d0%b2-%d1%81-%d0%bc%d0%be%d0%bc%d0%ba%d0%be%d0%b2%d0%be",
+    "destination": "/imoti/pozemlen-imot-za-prodazhba-v-smomkovo"
+  },
+  {
+    "source": "/property/tristaen-apartament-pod-naem-3",
+    "destination": "/imoti/tristaen-apartament-pod-naem-1"
+  },
+  {
+    "source": "/property/targovsko-pomesthenie-za-prodazhba",
+    "destination": "/imoti/targovsko-pomeshtenie-za-prodazhba"
+  },
+  {
+    "source": "/property/%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b2%d0%b0-%d1%81%d0%b5-%d0%be%d1%82%d0%b4%d0%b0%d0%b2%d0%b0-%d1%81%d0%b5-%d0%bf%d0%be%d0%b4-%d0%bd%d0%b0%d0%b5%d0%bc-%d1%82%d1%8a%d1%80%d0%b3%d0%be%d0%b2%d1%81%d0%ba",
+    "destination": "/imoti/prodava-se-otdava-se-pod-naem-targovsko-pomeshtenie"
+  },
+  {
+    "source": "/property/dvustaen-apartament-pod-naem-7",
+    "destination": "/imoti/dvustaen-apartament-pod-naem-1"
+  },
+  {
+    "source": "/property/studio-pod-naem-3",
+    "destination": "/imoti/studio-pod-naem-1"
+  },
+  {
+    "source": "/property/dvustaen-apartament-pod-naem-v-ideale",
+    "destination": "/imoti/garsoniera-pod-naem-v-idealen-tsentar"
+  },
+  {
+    "source": "/property/%d1%83%d0%bf%d0%b8-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b1%d0%b0",
+    "destination": "/imoti/upi-za-prodazhba"
+  },
+  {
+    "source": "/property/dvustaen-luksozen-apartament-za-prod",
+    "destination": "/imoti/dvustaen-luksozen-apartament-za-prodazhba"
+  },
+  {
+    "source": "/property/mnogostaen-apartament-pod-naem",
+    "destination": "/imoti/mnogostaen-apartament-pod-naem"
+  },
+  {
+    "source": "/property/tristaen-apartament-pod-naem-4",
+    "destination": "/imoti/tristaen-apartament-pod-naem-2"
+  },
+  {
+    "source": "/property/%d1%83%d0%bf%d0%b8-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b1%d0%b0-%d0%b2-%d0%b3%d1%80%d0%b0%d0%b4-%d1%81%d0%b2%d0%b8%d0%bb%d0%b5%d0%bd%d0%b3%d1%80%d0%b0%d0%b4-4",
+    "destination": "/imoti/upi-za-prodazhba-v-grad-svilengrad"
+  },
+  {
+    "source": "/property/etazh-ot-kastha-v-idealen-czentar-za-prodazh",
+    "destination": "/imoti/etazh-ot-kashta-v-idealen-tsentar-za-prodazhba"
+  },
+  {
+    "source": "/property/tristaen-apartament-pod-naem-5",
+    "destination": "/imoti/tristaen-apartament-pod-naem-3"
+  },
+  {
+    "source": "/property/tristaen-apartament-pod-naem-6",
+    "destination": "/imoti/tristaen-apartament-pod-naem-4"
+  },
+  {
+    "source": "/property/promishlena-sgrada-za-prodazhba",
+    "destination": "/imoti/promishlena-sgrada-za-prodazhba"
+  },
+  {
+    "source": "/property/pi-za-prodazhba-na-avtomagistrala-mar",
+    "destination": "/imoti/pi-za-prodazhba-na-avtomagistrala-maritsa"
+  },
+  {
+    "source": "/property/mnogostaen-apartament-za-prodazhba-2",
+    "destination": "/imoti/mnogostaen-apartament-za-prodazhba-2"
+  },
+  {
+    "source": "/property/dvustaen-apartament-pod-naem-9",
+    "destination": "/imoti/dvustaen-apartament-pod-naem-5"
+  },
+  {
+    "source": "/property/dvustajni-apartamenti-pod-naem",
+    "destination": "/imoti/dvustayni-apartamenti-pod-naem-1"
+  },
+  {
+    "source": "/property/dvuetazhna-kastha-za-prodazhba-v-s-levka",
+    "destination": "/imoti/dvuetazhna-kashta-za-prodazhba-v-s-levka-1"
+  },
+  {
+    "source": "/property/upi-za-prodazhba-5",
+    "destination": "/imoti/upi-za-prodazhba-2"
+  },
+  {
+    "source": "/property/pozemlen-imot-za-prodazhba-v-mestnost-2",
+    "destination": "/imoti/pozemlen-imot-za-prodazhba-v-mestnost-rechni-lozya-1"
+  },
+  {
+    "source": "/property/%d1%82%d1%8a%d1%80%d0%b3%d0%be%d0%b2%d1%81%d0%ba%d0%be-%d0%bf%d0%be%d0%bc%d0%b5%d1%89%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bf%d0%be%d0%b4-%d0%bd%d0%b0%d0%b5%d0%bc-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d0%b4%d0%b0",
+    "destination": "/imoti/targovsko-pomeshtenie-pod-naem-za-prodazhba-1"
+  },
+  {
+    "source": "/property/pozemlen-imot-za-prodazhba-v-grad-svile",
+    "destination": "/imoti/pozemlen-imot-za-prodazhba-v-grad-svilengrad-1"
+  },
+  {
+    "source": "/property/dvustaen-apartament-za-prodazhba-v-nov",
+    "destination": "/imoti/dvustaen-apartament-za-prodazhba-v-nova-kooperatsiya-1"
+  },
+  {
+    "source": "/property/tristaen-apartament-pod-naem-7",
+    "destination": "/imoti/tristaen-apartament-pod-naem-7"
+  },
+  {
+    "source": "/property/dvustaen-apartament-za-prodazhba-17",
+    "destination": "/imoti/dvustaen-apartament-za-prodazhba-5"
+  },
+  {
+    "source": "/property/dvustaen-apartament-pod-naem-12",
+    "destination": "/imoti/dvustaen-apartament-pod-naem-6"
+  },
+  {
+    "source": "/property/targovsko-pomesthenie-pod-naem-v-ideale",
+    "destination": "/imoti/targovsko-pomeshtenie-pod-naem-v-idealen-tsentar-1"
+  },
+  {
+    "source": "/property/pozemlen-imot-za-prodazhba-v-m-n-karant",
+    "destination": "/imoti/pozemlen-imot-za-prodazhba-v-m-n-karantinite-1"
+  },
+  {
+    "source": "/property/dvustaen-apartament-pod-naem-v-czentar",
+    "destination": "/imoti/dvustaen-apartament-pod-naem-v-tsentara-na-grada-1"
+  },
+  {
+    "source": "/property/%d0%b4%d0%b2%d0%b5-%d0%bc%d0%b0%d1%81%d0%b8%d0%b2%d0%bd%d0%b8-%d0%ba%d1%8a%d1%89%d0%b8-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b1%d0%b0-%d0%b2-%d0%b3%d1%80%d0%b0%d0%b4-%d1%81%d0%b2%d0%b8",
+    "destination": "/imoti/dve-masivni-kashti-za-prodazhba-v-grad-svilengrad-1"
+  },
+  {
+    "source": "/property/dvustaen-apartament-pod-naem-13",
+    "destination": "/imoti/dvustaen-apartament-pod-naem-7"
+  },
+  {
+    "source": "/property/studio-pod-naem-4",
+    "destination": "/imoti/studio-pod-naem-3"
+  },
+  {
+    "source": "/property/tristaen-apartament-pod-naem-8",
+    "destination": "/imoti/tristaen-apartament-pod-naem-8"
+  },
+  {
+    "source": "/property/tristaen-apartament-pod-naem-v-ideale",
+    "destination": "/imoti/tristaen-apartament-pod-naem-v-idealen-tsentar-1"
+  },
+  {
+    "source": "/property/pozemlen-imot-za-prodazhba-v-m-n-cherven",
+    "destination": "/imoti/pozemlen-imot-za-prodazhba-v-m-n-chervenata-prast"
+  },
+  {
+    "source": "/property/dvustaen-apartament-pod-naem-16",
+    "destination": "/imoti/dvustaen-apartament-pod-naem-8"
+  },
+  {
+    "source": "/property/chetiristaen-apartament-pod-naem-3",
+    "destination": "/imoti/chetiristaen-apartament-pod-naem-1"
+  },
+  {
+    "source": "/property/trietazhna-masivna-kastha-za-prodazhba-2",
+    "destination": "/imoti/trietazhna-masivna-kashta-za-prodazhba"
+  },
+  {
+    "source": "/property/%d1%82%d1%8a%d1%80%d0%b3%d0%be%d0%b2%d1%81%d0%ba%d0%be-%d0%bf%d0%be%d0%bc%d0%b5%d1%89%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bf%d0%be%d0%b4-%d0%bd%d0%b0%d0%b5%d0%bc-6",
+    "destination": "/imoti/targovsko-pomeshtenie-pod-naem-1"
+  },
+  {
+    "source": "/property/tristaen-apartament-za-prodazhba-v-izg",
+    "destination": "/imoti/tristaen-apartament-za-prodazhba-v-izgrev-park"
+  },
+  {
+    "source": "/property/pozemlen-imot-za-prodazhba-v-m-n-rechni-l",
+    "destination": "/imoti/pozemlen-imot-za-prodazhba-v-m-n-rechni-lozya"
+  },
+  {
+    "source": "/property/targovsko-pomesthenie-pod-naem-7",
+    "destination": "/imoti/targovsko-pomeshtenie-pod-naem-2"
+  },
+  {
+    "source": "/property/luksozna-rezidencziya-za-prodazhba",
+    "destination": "/imoti/luksozna-rezidentsiya-za-prodazhba-otdavane-pod-naem"
+  },
+  {
+    "source": "/property/dvustaen-apartament-pod-naem-17",
+    "destination": "/imoti/dvustaen-apartament-pod-naem-9"
+  },
+  {
+    "source": "/property/imot-za-prodazhba-v-grad-lyubimecz",
+    "destination": "/imoti/imot-za-prodazhba-v-grad-lyubimets"
+  },
+  {
+    "source": "/property/dvustaen-mansarden-apartament-pod-na",
+    "destination": "/imoti/dvustaen-mansarden-apartament-pod-naem"
+  },
+  {
+    "source": "/property/tristaen-apartament-za-prodazhba-v-gra-6",
+    "destination": "/imoti/tristaen-apartament-za-prodazhba-v-grad-svilengrad"
+  },
+  {
+    "source": "/property/ednoetazhna-kastha-pod-naem-v-neposredst",
+    "destination": "/imoti/ednoetazhna-kashta-pod-naem-v-neposredstvena-blizost-do-grad-svilengrad"
+  },
+  {
+    "source": "/property/%d0%bb%d1%83%d0%ba%d1%81%d0%be%d0%b7%d0%bd%d0%be-%d0%be%d0%b1%d0%b7%d0%b0%d0%b2%d0%b5%d0%b4%d0%b5%d0%bd-%d0%b0%d0%bf%d0%b0%d1%80%d1%82%d0%b0%d0%bc%d0%b5%d0%bd%d1%82-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be",
+    "destination": "/imoti/luksozno-obzaveden-apartament-za-prodazhba"
+  },
+  {
+    "source": "/property/apartament-za-prodazhba-v-grad-svileng",
+    "destination": "/imoti/apartament-za-prodazhba-v-grad-svilengrad"
+  },
+  {
+    "source": "/property/dvuetazhna-kastha-za-prodazhba-v-idealen-cz",
+    "destination": "/imoti/dvuetazhna-kashta-za-prodazhba-v-idealen-tsentar"
+  },
+  {
+    "source": "/property/dvuetazhna-masivna-kastha-v-s-momkovo",
+    "destination": "/imoti/dvuetazhna-masivna-kashta-v-s-momkovo"
+  },
+  {
+    "source": "/property/%d0%b4%d0%b2%d1%83%d0%b5%d1%82%d0%b0%d0%b6%d0%bd%d0%b0-%d1%82%d1%83%d1%85%d0%bb%d0%b5%d0%bd%d0%b0-%d0%ba%d1%8a%d1%89%d0%b0-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b1%d0%b0-%d0%b2-%d1%81",
+    "destination": "/imoti/dvuetazhna-tuhlena-kashta-za-prodazhba-v-s-studena"
+  },
+  {
+    "source": "/property/%d1%82%d1%8a%d1%80%d0%b3%d0%be%d0%b2%d1%81%d0%ba%d0%b8-%d0%bf%d0%be%d0%bc%d0%b5%d1%89%d0%b5%d0%bd%d0%b8%d1%8f-%d0%bf%d0%be%d0%b4-%d0%bd%d0%b0%d0%b5%d0%bc-%d0%b2-%d0%b3%d1%80%d0%b0%d0%b4-%d1%81%d0%b2",
+    "destination": "/imoti/targovski-pomeshteniya-pod-naem-v-grad-svilengrad"
+  },
+  {
+    "source": "/property/tristaen-apartament-v-idealen-czentar",
+    "destination": "/imoti/tristaen-apartament-v-idealen-tsentar-za-prodazhba"
+  },
+  {
+    "source": "/property/ednoetazhna-kastha-za-prodazhba-v-grad-lyub-3",
+    "destination": "/imoti/ednoetazhna-kashta-pod-naem-v-grad-lyubimets"
+  },
+  {
+    "source": "/property/etazh-ot-kastha-pod-naem-v-grad-svilengrad",
+    "destination": "/imoti/etazh-ot-kashta-pod-naem-v-grad-svilengrad"
+  },
+  {
+    "source": "/property/dvustaen-apartament-pod-naem-18",
+    "destination": "/imoti/dvustaen-apartament-pod-naem-10"
+  },
+  {
+    "source": "/property/ednoetazhna-kastha-za-prodazhba-5",
+    "destination": "/imoti/ednoetazhna-kashta-za-prodazhba"
+  },
+  {
+    "source": "/property/dvuetazhna-luksozna-kastha-pod-naem-2",
+    "destination": "/imoti/dvuetazhna-luksozna-kashta-pod-naem-1"
+  },
+  {
+    "source": "/property/%d0%b4%d0%b2%d1%83%d0%b5%d1%82%d0%b0%d0%b6%d0%bd%d0%b0-%d0%ba%d1%8a%d1%89%d0%b0-%d1%81-%d0%b1%d0%b0%d1%80%d0%b1%d0%b5%d0%ba%d1%8e-%d0%b8-%d1%81%d0%b0%d1%83%d0%bd%d0%b0-%d0%bf%d0%be%d0%b4-%d0%bd%d0%b0",
+    "destination": "/imoti/dvuetazhna-kashta-s-barbekyu-i-sauna-pod-naem-v-kitno-seltse"
+  },
+  {
+    "source": "/property/samostoyatelen-etazh-ot-kastha-s-mazetava",
+    "destination": "/imoti/samostoyatelen-etazh-ot-kashta-s-mazetavan-i-garazh-za-prodazhba"
+  },
+  {
+    "source": "/property/trietazhna-kastha-bliznak-za-prodazhba",
+    "destination": "/imoti/trietazhna-kashta-bliznak-za-prodazhba"
+  },
+  {
+    "source": "/property/studio-pod-naem-v-grad-svilengrad",
+    "destination": "/imoti/studio-pod-naem-v-grad-svilengrad"
+  },
+  {
+    "source": "/property/upi-za-prodazhba-sas-selskostopanska-p",
+    "destination": "/imoti/upi-za-prodazhba-sas-selskostopanska-postroyka-v-grad-lyubimets"
+  },
+  {
+    "source": "/property/tristaen-apartament-pod-naem-v-nova-ko",
+    "destination": "/imoti/tristaen-apartament-pod-naem-v-nova-kooperatsiya"
+  },
+  {
+    "source": "/property/dvuetazhna-masivna-kastha-za-prodazhba-v-g-2",
+    "destination": "/imoti/dvuetazhna-masivna-kashta-za-prodazhba-v-grad-ivaylovgrad"
+  },
+  {
+    "source": "/property/targovsko-pomesthenie-pod-naem-v-ideale-3",
+    "destination": "/imoti/targovsko-pomeshtenie-pod-naem-v-idealen-tsentar-2"
+  },
+  {
+    "source": "/property/kastha-za-gosti-za-prodazhba-v-s-slavyanovo",
+    "destination": "/imoti/kashta-za-gosti-za-prodazhba-v-s-slavyanovo"
+  },
+  {
+    "source": "/property/%d1%82%d1%8a%d1%80%d0%b3%d0%be%d0%b2%d1%81%d0%ba%d0%be-%d0%bf%d0%be%d0%bc%d0%b5%d1%89%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b1%d0%b0-%d0%b2-%d0%b3%d1%80%d0%b0-2",
+    "destination": "/imoti/targovsko-pomeshtenie-za-prodazhba-v-grad-svilengrad"
+  },
+  {
+    "source": "/property/etazh-ot-kastha-pod-naem-v-shirok-czentar",
+    "destination": "/imoti/etazh-ot-kashta-pod-naem-v-shirok-tsentar"
+  },
+  {
+    "source": "/property/dvustaen-apartament-pod-naem-v-ideale-3",
+    "destination": "/imoti/dvustaen-apartament-pod-naem-v-idealen-tsentar"
+  },
+  {
+    "source": "/property/%d0%bb%d1%83%d0%ba%d1%81%d0%be%d0%b7%d0%bd%d0%b0-%d0%ba%d1%8a%d1%89%d0%b0-%d1%81-%d0%bf%d0%b0%d1%80%d1%82%d0%b5%d1%80%d0%b5%d0%bd-%d0%b5%d1%82%d0%b0%d0%b6-%d0%b8-%d1%82%d0%b0%d0%b2%d0%b0%d0%bd-%d0%b7",
+    "destination": "/imoti/luksozna-kashta-s-parteren-etazh-i-tavan-za-prodazhba"
+  },
+  {
+    "source": "/property/apartament-za-prodazhba-v-grad-svileng-2",
+    "destination": "/imoti/apartament-za-prodazhba-v-grad-svilengrad-1"
+  },
+  {
+    "source": "/property/dvuetazhna-kastha-s-prizemen-etazh-basejn",
+    "destination": "/imoti/dvuetazhna-kashta-s-prizemen-etazh-baseyn-i-targovsko-pomeshtenie-za-prodazhba"
+  },
+  {
+    "source": "/property/dvuetazhna-kastha-za-prodazhba-v-grad-lyubi-2",
+    "destination": "/imoti/dvuetazhna-kashta-za-prodazhba-v-grad-lyubimets"
+  },
+  {
+    "source": "/property/dvustaen-apartament-za-prodazhba-14",
+    "destination": "/imoti/dvustaen-apartament-za-prodazhba-6"
+  },
+  {
+    "source": "/property/%d0%b7%d0%b5%d0%bc%d0%b5%d0%b4%d0%b5%d0%bb%d1%81%d0%ba%d0%b8-%d0%b7%d0%b5%d0%bc%d0%b8-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b1%d0%b0-%d0%b2-%d0%bc-%d0%bd-%d0%bf%d1%8a%d1%81%d1%82",
+    "destination": "/imoti/zemedelski-zemi-za-prodazhba-v-m-n-pastrogorski"
+  },
+  {
+    "source": "/property/tristaen-apartament-pod-naem-9",
+    "destination": "/imoti/tristaen-apartament-pod-naem-v-grad-svilengrad"
+  },
+  {
+    "source": "/property/dvustaen-apartament-pod-naem-11",
+    "destination": "/imoti/dvustaen-apartament-pod-naem-11"
+  },
+  {
+    "source": "/property/tristaen-apartament-pod-naem-v-shirok-cz",
+    "destination": "/imoti/tristaen-apartament-pod-naem-v-shirok-tsentar"
+  },
+  {
+    "source": "/property/tristaen-apartament-za-prodazhba-s-maz",
+    "destination": "/imoti/tristaen-apartament-za-prodazhba-s-maze"
+  },
+  {
+    "source": "/property/ednoetazhna-kastha-za-prodazhba-v-grad-lyub",
+    "destination": "/imoti/ednoetazhna-kashta-za-prodazhba-v-grad-lyubimets"
+  },
+  {
+    "source": "/property/%d1%81%d0%b3%d1%80%d0%b0%d0%b4%d0%b0-%d1%81-%d1%82%d1%8a%d1%80%d0%b3%d0%be%d0%b2%d1%81%d0%ba%d0%b8-%d0%bf%d0%be%d0%bc%d0%b5%d1%89%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b8-%d0%b0%d0%bf%d0%b0%d1%80%d1%82%d0%b0",
+    "destination": "/imoti/sgrada-s-targovski-pomeshteniya-i-apartamenti-za-prodazhba"
+  },
+  {
+    "source": "/property/dvustaen-apartament-pod-naem-v-grad-sv",
+    "destination": "/imoti/dvustaen-apartament-za-prodazhba-otdavane-pod-naem-v-grad-svilengrad"
+  },
+  {
+    "source": "/property/ednoetazhna-kastha-za-prodazhba-v-s-kapita",
+    "destination": "/imoti/ednoetazhna-kashta-za-prodazhba-v-s-kapitan-andreevo"
+  },
+  {
+    "source": "/property/dvustaen-apartament-za-prodazhba-15",
+    "destination": "/imoti/dvustaen-apartament-za-prodazhba-7"
+  },
+  {
+    "source": "/property/dvustaen-apartament-za-prodazhba-v-gra-2",
+    "destination": "/imoti/dvustaen-apartament-pod-naem-v-grad-svilengrad"
+  },
+  {
+    "source": "/property/targovsko-pomesthenie-za-prodazhba-v-gra",
+    "destination": "/imoti/targovsko-pomeshtenie-za-prodazhba-v-grad-svilengrad-1"
+  },
+  {
+    "source": "/property/dvustaen-apartament-pod-naem-19",
+    "destination": "/imoti/dvustaen-apartament-pod-naem-12"
+  },
+  {
+    "source": "/property/studio-pod-naem-v-shirok-czentar",
+    "destination": "/imoti/studio-pod-naem-v-shirok-tsentar"
+  },
+  {
+    "source": "/property/etazh-ot-kastha-za-prodazhba-v-grad-svilen-2",
+    "destination": "/imoti/etazh-ot-kashta-za-prodazhba-v-grad-svilengrad"
+  },
+  {
+    "source": "/property/tristaen-apartament-pod-naem-v-nova-ko-2",
+    "destination": "/imoti/tristaen-apartament-pod-naem-v-nova-kooperatsiya-1"
+  },
+  {
+    "source": "/property/malomerno-zhilisthe-pod-naem",
+    "destination": "/imoti/malomerno-zhilishte-pod-naem"
+  },
+  {
+    "source": "/property/apartamenti-i-podzemni-garazhi-za-prod",
+    "destination": "/imoti/apartamenti-i-podzemni-garazhi-za-prodazhba-na-zeleno-v-nova-kooperatsiya"
+  },
+  {
+    "source": "/property/etazh-ot-kastha-pod-naem-2",
+    "destination": "/imoti/etazh-ot-kashta-pod-naem-1"
+  },
+  {
+    "source": "/property/ednoetazhna-luksozna-kastha-pod-naem",
+    "destination": "/imoti/ednoetazhna-luksozna-kashta-pod-naem"
+  },
+  {
+    "source": "/property/dvustaen-apartament-pod-naem-v-shirok-cz",
+    "destination": "/imoti/dvustaen-apartament-pod-naem-v-shirok-tsentar"
+  },
+  {
+    "source": "/property/dvustaen-apartament-pod-naem-20",
+    "destination": "/imoti/dvustaen-apartament-pod-naem-13"
+  },
+  {
+    "source": "/property/dvustaen-apartament-pod-naem-21",
+    "destination": "/imoti/dvustaen-apartament-pod-naem-14"
+  },
+  {
+    "source": "/property/tristaen-apartament-za-prodazhba-v-zh-k",
+    "destination": "/imoti/tristaen-apartament-za-prodazhba-v-zhk-izgrev"
+  },
+  {
+    "source": "/property/upi-za-prodazhba-v-s-izvorovo-obsth-harma",
+    "destination": "/imoti/upi-za-prodazhba-v-s-izvorovo-obsht-harmanli"
+  },
+  {
+    "source": "/property/%d1%82%d1%80%d0%b8%d1%81%d1%82%d0%b0%d0%b5%d0%bd-%d0%b0%d0%bf%d0%b0%d1%80%d1%82%d0%b0%d0%bc%d0%b5%d0%bd%d1%82-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b1%d0%b0-2",
+    "destination": "/imoti/tristaen-apartament-za-prodazhba"
+  },
+  {
+    "source": "/property/%d1%83%d0%bf%d0%b8-%d1%81-%d1%82%d1%8a%d1%80%d0%b3%d0%be%d0%b2%d1%81%d0%ba%d0%b8-%d0%be%d0%b1%d0%b5%d0%ba%d1%82-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b1%d0%b0",
+    "destination": "/imoti/upi-s-targovski-obekt-za-prodazhba"
+  },
+  {
+    "source": "/property/ednoetazhna-kastha-za-prodazhba-v-grad-lyub-4",
+    "destination": "/imoti/ednoetazhna-kashta-za-prodazhba-v-grad-lyubimets-1"
+  },
+  {
+    "source": "/property/targovsko-pomesthenie-sklad-za-otdavan",
+    "destination": "/imoti/targovsko-pomeshteniesklad-za-otdavane-pod-naem"
+  },
+  {
+    "source": "/property/ednoetazhna-kastha-za-prodazhba-v-s-cherepo",
+    "destination": "/imoti/ednoetazhna-kashta-za-prodazhba-v-s-cherepovo"
+  },
+  {
+    "source": "/property/etazh-ot-kastha-pod-naem-v-blizost-do-grad-2",
+    "destination": "/imoti/etazh-ot-kashta-pod-naem-v-blizost-do-gradskiya-park"
+  },
+  {
+    "source": "/property/ednofamilna-kastha-za-prodazhba-v-grad-svilengrad",
+    "destination": "/imoti/ednofamilna-kashta-za-prodazhba-v-grad-svilengrad"
+  },
+  {
+    "source": "/property/dvustaen-apartament-za-prodazhba",
+    "destination": "/imoti/dvustaen-apartament-za-prodazhba-8"
+  },
+  {
+    "source": "/property/nov-dvustaen-apartament-pod-naem",
+    "destination": "/imoti/nov-dvustaen-apartament-pod-naem"
+  },
+  {
+    "source": "/property/dvustaen-apartament-pod-naem-v-idealen-czentar",
+    "destination": "/imoti/dvustaen-apartament-pod-naem-v-idealen-tsentar-1"
+  },
+  {
+    "source": "/property/ednofamilna-kastha-za-prodazhba-v-s-palli-garcziya",
+    "destination": "/imoti/ednofamilna-kashta-za-prodazhba-v-s-palli-gartsiya"
+  },
+  {
+    "source": "/property/tri-pozemleni-imota-za-prodazhba-v-m-n-dyunlyuka",
+    "destination": "/imoti/tri-pozemleni-imota-za-prodazhba-v-m-n-dyunlyuka"
+  },
+  {
+    "source": "/property/upi-za-prodazhba-v-s-mezek",
+    "destination": "/imoti/upi-za-prodazhba-v-s-mezek"
+  },
+  {
+    "source": "/property/etazh-ot-kastha-s-1-3-dvorno-myasto-i-dopalnitelna-postrojka-za-prodazhba",
+    "destination": "/imoti/etazh-ot-kashta-s-13-dvorno-myasto-i-dopalnitelna-postroyka-za-prodazhba"
+  },
+  {
+    "source": "/property/tri-pozemleni-imoti-za-prodazhba-v-m-n-pastrogorski-pat",
+    "destination": "/imoti/tri-pozemleni-imoti-za-prodazhba-v-m-n-pastrogorski-pat"
+  },
+  {
+    "source": "/property/tristaen-apartament-pod-naem",
+    "destination": "/imoti/tristaen-apartament-pod-naem-9"
+  },
+  {
+    "source": "/property/dvustaen-apartament-pod-naem",
+    "destination": "/imoti/dvustaen-apartament-pod-naem-15"
+  },
+  {
+    "source": "/property/etazh-ot-mnogofamilna-zhilisthna-sgrada-za-prodazhba",
+    "destination": "/imoti/etazh-ot-mnogofamilna-zhilishtna-sgrada-za-prodazhba"
+  },
+  {
+    "source": "/property/dvustaen-apartament-pod-naem-2",
+    "destination": "/imoti/dvustaen-apartament-pod-naem-16"
+  },
+  {
+    "source": "/property/kastha-za-prodazhba-v-s-kapitan-andreevo",
+    "destination": "/imoti/kashta-za-prodazhba-v-s-kapitan-andreevo"
+  },
+  {
+    "source": "/property/urbaniziran-pozemlen-imot-za-prodazhba",
+    "destination": "/imoti/ureguliran-pozemlen-imot-za-prodazhba"
+  },
+  {
+    "source": "/property/studio-pod-naem-v-grad-svilengrad-2",
+    "destination": "/imoti/studio-pod-naem-v-grad-svilengrad-1"
+  },
+  {
+    "source": "/property/dvustaen-apartament-pod-naem-3",
+    "destination": "/imoti/dvustaen-apartament-pod-naem-17"
+  },
+  {
+    "source": "/property/mezonet-za-prodazhba-na-zeleno",
+    "destination": "/imoti/mezonet-za-prodazhba-na-zeleno"
+  },
+  {
+    "source": "/property/dvustaen-apartament-pod-naem-4",
+    "destination": "/imoti/dvustaen-apartament-pod-naem-18"
+  },
+  {
+    "source": "/property/tristaen-apartament-pod-naem-v-grad-svilengrad",
+    "destination": "/imoti/tristaen-apartament-pod-naem-v-grad-svilengrad-1"
+  },
+  {
+    "source": "/property/dvustaen-apartament-pod-naem-5",
+    "destination": "/imoti/dvustaen-apartament-pod-naem-19"
+  },
+  {
+    "source": "/property/dvustaen-butikov-apartament-pod-naem",
+    "destination": "/imoti/dvustaen-butikov-apartament-pod-naem"
+  },
+  {
+    "source": "/property/pozemlen-imot-za-prodazhba-v-m-n-rechni-lozya",
+    "destination": "/imoti/pozemlen-imot-za-prodazhba-v-m-n-rechni-lozya-1"
+  },
+  {
+    "source": "/property/etazh-ot-kastha-pod-naem-v-s-generalovo",
+    "destination": "/imoti/dvuetazhna-kashta-pod-naem-v-s-generalovo"
+  },
+  {
+    "source": "/property/tristaen-apartament-za-prodazhba",
+    "destination": "/imoti/tristaen-apartament-za-prodazhba-1"
+  },
+  {
+    "source": "/property/ednoetazhna-kastha-za-prodazhba-v-s-mezek",
+    "destination": "/imoti/ednoetazhna-kashta-za-prodazhba-v-s-mezek"
+  },
+  {
+    "source": "/property/upi-za-prodazhba-v-grad-svilengrad-2",
+    "destination": "/imoti/upi-za-prodazhba-v-grad-svilengrad-1"
+  },
+  {
+    "source": "/property/tristaen-apartament-i-garazhi-za-prodazhba-v-nova-kooperacziya",
+    "destination": "/imoti/tristaen-apartament-i-garazhi-za-prodazhba-v-nova-kooperatsiya"
+  },
+  {
+    "source": "/property/mnogostaen-apartament-za-prodazhba-i-garazhi-v-novostrostha-se-kooperacziya",
+    "destination": "/imoti/mnogostaen-apartament-za-prodazhba-i-garazhi-v-novostroshta-se-kooperatsiya"
+  },
+  {
+    "source": "/property/tristaen-apartament-za-prodazhba-v-nova-sgrada",
+    "destination": "/imoti/tristaen-apartament-za-prodazhba-v-nova-sgrada"
+  },
+  {
+    "source": "/property/dva-dvustajni-apartamenta-i-studio-za-prodazhba-v-novostrastha-se-sgrada",
+    "destination": "/imoti/studio-za-prodazhba-i-garazhi-v-novostrashta-se-sgrada"
+  },
+  {
+    "source": "/property/studio-za-prodazhba-v-grad-svilengrad",
+    "destination": "/imoti/studio-za-prodazhba-v-grad-svilengrad"
+  },
+  {
+    "source": "/property/prodava-se-ednoetazhna-kastha-v-s-mezek",
+    "destination": "/imoti/prodava-se-ednoetazhna-kashta-v-s-mezek"
+  },
+  {
+    "source": "/property/dvustaen-apartamen-za-prodazhba",
+    "destination": "/imoti/dvustaen-apartamen-za-prodazhba"
+  },
+  {
+    "source": "/property/ednofamilna-kastha-za-prodazhba-v-idealen-czentar",
+    "destination": "/imoti/ednofamilna-kashta-za-prodazhba-v-idealen-tsentar"
+  },
+  {
+    "source": "/property/dvustajni-i-tristajni-apartamenti-za-prodazhba",
+    "destination": "/imoti/dvustayni-i-tristayni-apartamenti-za-prodazhba"
+  },
+  {
+    "source": "/property/ureguliran-pozemlen-imot-za-obezsthetenie",
+    "destination": "/imoti/ureguliran-pozemlen-imot-za-obezshtetenie"
+  },
+  {
+    "source": "/property/dvustaen-apartament-pod-naem-6",
+    "destination": "/imoti/dvustaen-apartament-pod-naem-20"
+  },
+  {
+    "source": "/property/apartamenti-za-prodazhba-v-novostroyastha-se-kooperacziya",
+    "destination": "/imoti/apartamenti-za-prodazhba-v-novostroyashta-se-kooperatsiya"
+  },
+  {
+    "source": "/property/dvuetazhna-ednofamilna-kastha-za-prodazhba",
+    "destination": "/imoti/luksozen-semeen-dom-za-prodazhba"
+  },
+  {
+    "source": "/property/pozemlen-imot-za-prodazhba-v-s-momkovo",
+    "destination": "/imoti/pozemlen-imot-za-prodazhba-v-s-momkovo"
+  },
+  {
+    "source": "/property/dve-targovski-pomestheniya-za-prodazhba",
+    "destination": "/imoti/dve-targovski-pomeshteniya-za-prodazhba-v-idealen-tsentar"
+  },
+  {
+    "source": "/property/dvustaen-apartament-v-shirok-czentar",
+    "destination": "/imoti/dvustaen-apartament-pod-naem-v-shirok-tsentar-1"
+  },
+  {
+    "source": "/property/dvustaen-obzaveden-apartament-za-prodazhba",
+    "destination": "/imoti/dvustaen-obzaveden-apartament-za-prodazhba-1"
+  },
+  {
+    "source": "/property/upi-za-prodazhba-s-postrojka-za-zhivotnovadni-czeli-v-s-studena",
+    "destination": "/imoti/upi-za-prodazhba-s-postroyka-za-zhivotnovadni-tseli-v-s-studena"
+  },
+  {
+    "source": "/property/ednoetazhna-kastha-za-prodazhba-v-s-generalovo",
+    "destination": "/imoti/ednoetazhna-kashta-za-prodazhba-v-s-generalovo"
+  },
+  {
+    "source": "/property/nov-dvustaen-apartament-pod-naem-2",
+    "destination": "/imoti/nov-dvustaen-apartament-pod-naem-1"
+  },
+  {
+    "source": "/property/mansardna-garsoniera-pod-naem",
+    "destination": "/imoti/mansardna-garsoniera-pod-naem"
+  },
+  {
+    "source": "/property/tristaen-apartament-za-prodazhba-v-grad-svilengrad",
+    "destination": "/imoti/tristaen-apartament-za-prodazhba-v-grad-svilengrad-1"
+  },
+  {
+    "source": "/property/tristaen-apartament-za-prodazhba-2",
+    "destination": "/imoti/tristaen-apartament-za-prodazhba-2"
+  },
+  {
+    "source": "/property/dvustaen-apartament-za-prodazhba-2",
+    "destination": "/imoti/dvustaen-apartament-za-prodazhba-9"
+  },
+  {
+    "source": "/property/dvustaen-apartament-za-prodazhba-v-novostroyastha-se-sgrada",
+    "destination": "/imoti/dvustaen-apartament-za-prodazhba-v-novostroyashta-se-sgrada"
+  },
+  {
+    "source": "/property/tristaen-apartament-za-prodazhba-v-nova-sgrada-2",
+    "destination": "/imoti/tristaen-apartament-za-prodazhba-v-nova-sgrada-1"
+  },
+  {
+    "source": "/property/butikova-zhilisthna-sgrada-s-ogranichen-broj-apartamenti-za-prodazhba",
+    "destination": "/imoti/butikova-zhilishtna-sgrada-s-ogranichen-broy-apartamenti-za-prodazhba"
+  },
+  {
+    "source": "/property/ednoetazhna-kastha-za-prodazhba-v-s-levka",
+    "destination": "/imoti/ednoetazhna-kashta-za-prodazhba-v-s-levka"
+  },
+  {
+    "source": "/property/apartamenti-za-prodazhba-v-novostroyastha-se-sgrada",
+    "destination": "/imoti/apartamenti-za-prodazhba-v-novostroyashta-se-sgrada-1"
+  },
+  {
+    "source": "/property/dvustaen-apartament-pod-naem-v-super-czentar",
+    "destination": "/imoti/dvustaen-apartament-pod-naem-v-super-tsentar"
+  },
+  {
+    "source": "/property/napalno-oborudvana-kastha-za-prodazhba-v-s-pastrogor",
+    "destination": "/imoti/napalno-oborudvana-kashta-za-prodazhba-v-s-pastrogor"
+  },
+  {
+    "source": "/property/studio-za-prodazhba-v-novostroyastha-se-zhilisthna-sgrada",
+    "destination": "/imoti/studio-za-prodazhba-v-novostroyashta-se-zhilishtna-sgrada"
+  },
+  {
+    "source": "/property/dvustaen-apartament-za-prodazhba-v-zatvoren-kompleks",
+    "destination": "/imoti/dvustaen-apartament-za-prodazhba-v-zatvoren-kompleks"
+  },
+  {
+    "source": "/property/targovsko-pomesthenie-za-prodazhba-2",
+    "destination": "/imoti/targovsko-pomeshtenie-za-prodazhba-1"
+  },
+  {
+    "source": "/контакти",
+    "destination": "/contact"
+  },
+  {
+    "source": "/naemi",
+    "destination": "/imoti?purpose=for_rent&page=1"
+  },
+  {
+    "source": "/prodazhbi",
+    "destination": "/imoti?purpose=for_sale&page=1"
+  }
+]

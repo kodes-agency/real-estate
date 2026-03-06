@@ -4,18 +4,13 @@ import * as React from "react";
 import { useForm } from "@tanstack/react-form";
 import { toast } from "sonner";
 import { z } from "zod";
+import Link from "next/link";
 
 import { cn } from "@/lib/utils";
 
 import { submitPropertyRequest } from "@/actions/submit-property-request";
-import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
-import {
-  Field,
-  FieldError,
-  FieldLabel,
-  FieldDescription,
-} from "@/components/ui/field";
+import { Field, FieldError, FieldLabel } from "@/components/ui/field";
 import { Input } from "@/components/ui/input";
 import { PhoneInput } from "@/components/ui/phone-input";
 import { Textarea } from "@/components/ui/textarea";
@@ -35,7 +30,7 @@ import { GoldButton } from "../ui/gold-button";
 const formSchema = z.object({
   firstName: z.string().min(1, "Моля въведете име"),
   lastName: z.string().min(1, "Моля въведете фамилия"),
-  email: z.string().email("Невалиден имейл адрес"),
+  email: z.email("Невалиден имейл адрес"),
   phone: z.string().min(1, "Моля въведете телефон"),
   // title removed from form
   purpose: z.string().min(1, "Моля изберете цел"),
@@ -145,7 +140,7 @@ export function PublishPropertyForm({
               : "Обявата е изпратена!"}
           </h3>
           <p className="text-muted-foreground max-w-xs">
-            Наш сътрудник ще прегледа информацията и ще се свърже с вас.
+            Наш сътрудник ще прегледа информацията и ще се свърже с Вас.
           </p>
         </CardContent>
       </Card>
@@ -213,7 +208,7 @@ export function PublishPropertyForm({
             <div>
               <h2 className="font-semibold text-foreground">Лични данни</h2>
               <p className="mt-1 text-sm leading-6 text-muted-foreground">
-                Информация за контакт с вас.
+                Информация за контакт с Вас.
               </p>
             </div>
             <div className="sm:max-w-3xl md:col-span-2">
@@ -634,8 +629,11 @@ export function PublishPropertyForm({
           </GoldButton>
         </div>
         <p className="text-center text-xs text-muted-foreground mt-4">
-          С натискането на бутона "Изпрати" се съгласявате с нашите общи условия
-          и политика за поверителност.
+          С натискането на бутона "Изпрати" се съгласявате с нашата{" "}
+          <Link href="/policy" className="underline">
+            политика за поверителност
+          </Link>
+          .
         </p>
       </div>
     </form>

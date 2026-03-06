@@ -11,11 +11,14 @@ export async function Header() {
     limit: 1000,
     pagination: false,
   });
+  const contact = await payload.findGlobal({
+    slug: "contact-page",
+  });
 
   const normalizedCategories = categories.map((c) => ({
     id: c.id,
     title: c.title,
   }));
 
-  return <HeaderClient categories={normalizedCategories} />;
+  return <HeaderClient contact={contact} categories={normalizedCategories} />;
 }

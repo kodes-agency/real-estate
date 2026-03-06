@@ -17,7 +17,7 @@ import { ArrowDownIcon } from "@phosphor-icons/react";
 
 export const HeroSection = ({ page }: { page: ServicesPage }) => {
   return (
-    <section className="relative min-h-[720px] lg:min-h-[90vh] flex flex-col justify-center lg:justify-end bg-black rounded-b-2xl overflow-hidden shadow-2xl/30">
+    <section className="relative min-h-[800px] lg:min-h-[90vh] flex flex-col justify-center lg:justify-end bg-black rounded-b-2xl overflow-hidden shadow-2xl/30">
       {page.hero.images.length > 0 && (
         <Carousel
           className="absolute inset-0 h-full w-full"

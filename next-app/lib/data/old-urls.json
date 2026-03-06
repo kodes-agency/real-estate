@@ -1,0 +1,982 @@
+[
+  {
+    "legacy_id": 991,
+    "old_path": "/property/stilno-dvustajno-zhilisthe-v-tih-i-spokoe/",
+    "title": "Двустаен апартамент под наем в тих и спокоен квартал"
+  },
+  {
+    "legacy_id": 1148,
+    "old_path": "/property/etazh-ot-kastha-pod-naem/",
+    "title": "Етаж от къща под наем"
+  },
+  {
+    "legacy_id": 1170,
+    "old_path": "/property/studio-pod-naem-v-czentara-na-grada/",
+    "title": "Студио под наем в центъра на града"
+  },
+  {
+    "legacy_id": 1178,
+    "old_path": "/property/otdava-pod-naem-dvustaen-apartament/",
+    "title": "Отдава под наем двустаен апартамент"
+  },
+  {
+    "legacy_id": 1251,
+    "old_path": "/property/tristaen-apartament-za-prodazhba-3/",
+    "title": "Двустаен апартамент за продажба"
+  },
+  {
+    "legacy_id": 1321,
+    "old_path": "/property/chetiristaen-apartament-pod-naem-2/",
+    "title": "Четиристаен апартамент под наем"
+  },
+  {
+    "legacy_id": 1427,
+    "old_path": "/property/tristaen-mansarden-pod-naem/",
+    "title": "Тристаен мансарден под наем"
+  },
+  {
+    "legacy_id": 1624,
+    "old_path": "/property/dvustaen-apartament-za-prodazhba-3/",
+    "title": "Двустаен апартамент за продажба"
+  },
+  {
+    "legacy_id": 1684,
+    "old_path": "/property/dvustaen-apartament-za-prodazhba-5/",
+    "title": "Двустаен апартамент за продажба"
+  },
+  {
+    "legacy_id": 1729,
+    "old_path": "/property/otdava-se-pod-naem-targovsko-pomestheni-2/",
+    "title": "Отдава се под наем търговско помещение"
+  },
+  {
+    "legacy_id": 1734,
+    "old_path": "/property/studio-pod-naem-2/",
+    "title": "Студио под наем"
+  },
+  {
+    "legacy_id": 1797,
+    "old_path": "/property/prodava-se-pozemlen-imot-s-postrojka/",
+    "title": "Продава се поземлен имот с постройка"
+  },
+  {
+    "legacy_id": 1811,
+    "old_path": "/property/dvustaen-apartament-za-prodazhba-7/",
+    "title": "Двустаен апартамент за продажба"
+  },
+  {
+    "legacy_id": 1833,
+    "old_path": "/property/dvustaen-obzaveden-apartament-za-pro/",
+    "title": "Двустаен обзаведен апартамент за продажба"
+  },
+  {
+    "legacy_id": 1913,
+    "old_path": "/property/%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b2%d0%b0-%d1%81%d0%b5-%d0%be%d1%82%d0%b4%d0%b0%d0%b2%d0%b0-%d1%81%d0%b5-%d0%bf%d0%be%d0%b4-%d0%bd%d0%b0%d0%b5%d0%bc-%d0%bc%d0%bd%d0%be%d0%b3%d0%be%d1%81%d1%82%d0%b0/",
+    "title": "Продава се многостаен апартамент"
+  },
+  {
+    "legacy_id": 2080,
+    "old_path": "/property/tristaen-apartament-pod-naem-2/",
+    "title": "Тристаен апартамент под наем"
+  },
+  {
+    "legacy_id": 2137,
+    "old_path": "/property/targovsko-pomesthenie-pod-naem-3/",
+    "title": "Търговско помещение под наем"
+  },
+  {
+    "legacy_id": 2153,
+    "old_path": "/property/dvuetazhna-luksozna-kastha-pod-naem/",
+    "title": "Двуетажна луксозна къща под наем"
+  },
+  {
+    "legacy_id": 2170,
+    "old_path": "/property/%d0%b0%d0%bf%d0%b0%d1%80%d1%82%d0%b0%d0%bc%d0%b5%d0%bd%d1%82%d0%b8-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b1%d0%b0-%d0%b2-%d0%bd%d0%be%d0%b2%d0%be%d1%81%d1%82%d1%80%d0%be%d1%8f%d1%89-3/",
+    "title": "Апартаменти за продажба в новострояща се сграда"
+  },
+  {
+    "legacy_id": 2211,
+    "old_path": "/property/tristaen-apartament-za-prodazhba-7/",
+    "title": "Тристаен апартамент с гараж за продажба"
+  },
+  {
+    "legacy_id": 2228,
+    "old_path": "/property/mnogostaen-apartament-za-prodazhba/",
+    "title": "Многостаен апартамент за продажба"
+  },
+  {
+    "legacy_id": 2394,
+    "old_path": "/property/garsoniera-pod-naem/",
+    "title": "Гарсониера под наем"
+  },
+  {
+    "legacy_id": 2428,
+    "old_path": "/property/dvustaen-apartament-pod-naem-6-2/",
+    "title": "Двустаен апартамент под наем"
+  },
+  {
+    "legacy_id": 2473,
+    "old_path": "/property/%d0%bf%d0%be%d0%b7%d0%b5%d0%bc%d0%bb%d0%b5%d0%bd-%d0%b8%d0%bc%d0%be%d1%82-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b1%d0%b0-%d0%b2-%d1%81-%d0%bc%d0%be%d0%bc%d0%ba%d0%be%d0%b2%d0%be/",
+    "title": "Поземлен имот за продажба в с.Момково"
+  },
+  {
+    "legacy_id": 2475,
+    "old_path": "/property/tristaen-apartament-pod-naem-3/",
+    "title": "Тристаен апартамент под наем"
+  },
+  {
+    "legacy_id": 2499,
+    "old_path": "/property/targovsko-pomesthenie-za-prodazhba/",
+    "title": "Търговско помещение за продажба"
+  },
+  {
+    "legacy_id": 2518,
+    "old_path": "/property/%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b2%d0%b0-%d1%81%d0%b5-%d0%be%d1%82%d0%b4%d0%b0%d0%b2%d0%b0-%d1%81%d0%b5-%d0%bf%d0%be%d0%b4-%d0%bd%d0%b0%d0%b5%d0%bc-%d1%82%d1%8a%d1%80%d0%b3%d0%be%d0%b2%d1%81%d0%ba/",
+    "title": "Продава се/ отдава се под наем търговско помещение"
+  },
+  {
+    "legacy_id": 2569,
+    "old_path": "/property/dvustaen-apartament-pod-naem-7/",
+    "title": "Двустаен апартамент под наем"
+  },
+  {
+    "legacy_id": 2612,
+    "old_path": "/property/studio-pod-naem-3/",
+    "title": "Студио под наем"
+  },
+  {
+    "legacy_id": 2620,
+    "old_path": "/property/dvustaen-apartament-pod-naem-v-ideale/",
+    "title": "Гарсониера под наем в идеален център"
+  },
+  {
+    "legacy_id": 2646,
+    "old_path": "/property/%d1%83%d0%bf%d0%b8-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b1%d0%b0/",
+    "title": "УПИ за продажба"
+  },
+  {
+    "legacy_id": 2663,
+    "old_path": "/property/dvustaen-luksozen-apartament-za-prod/",
+    "title": "Двустаен луксозен апартамент за продажба"
+  },
+  {
+    "legacy_id": 2680,
+    "old_path": "/property/mnogostaen-apartament-pod-naem/",
+    "title": "Многостаен апартамент под наем"
+  },
+  {
+    "legacy_id": 2699,
+    "old_path": "/property/tristaen-apartament-pod-naem-4/",
+    "title": "Тристаен апартамент под наем"
+  },
+  {
+    "legacy_id": 2716,
+    "old_path": "/property/%d1%83%d0%bf%d0%b8-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b1%d0%b0-%d0%b2-%d0%b3%d1%80%d0%b0%d0%b4-%d1%81%d0%b2%d0%b8%d0%bb%d0%b5%d0%bd%d0%b3%d1%80%d0%b0%d0%b4-4/",
+    "title": "УПИ за продажба в град Свиленград"
+  },
+  {
+    "legacy_id": 2718,
+    "old_path": "/property/etazh-ot-kastha-v-idealen-czentar-za-prodazh/",
+    "title": "Етаж от къща в идеален център за продажба"
+  },
+  {
+    "legacy_id": 2820,
+    "old_path": "/property/tristaen-apartament-pod-naem-5/",
+    "title": "Тристаен апартамент под наем"
+  },
+  {
+    "legacy_id": 2836,
+    "old_path": "/property/tristaen-apartament-pod-naem-6/",
+    "title": "Тристаен апартамент под наем"
+  },
+  {
+    "legacy_id": 2877,
+    "old_path": "/property/promishlena-sgrada-za-prodazhba/",
+    "title": "Промишлена сграда за продажба"
+  },
+  {
+    "legacy_id": 2907,
+    "old_path": "/property/pi-za-prodazhba-na-avtomagistrala-mar/",
+    "title": "ПИ за продажба на автомагистрала '' Марица''"
+  },
+  {
+    "legacy_id": 2913,
+    "old_path": "/property/mnogostaen-apartament-za-prodazhba-2/",
+    "title": "Многостаен апартамент за продажба"
+  },
+  {
+    "legacy_id": 2950,
+    "old_path": "/property/dvustaen-apartament-pod-naem-9/",
+    "title": "Двустаен апартамент под наем"
+  },
+  {
+    "legacy_id": 3015,
+    "old_path": "/property/dvustajni-apartamenti-pod-naem/",
+    "title": "Двустайни апартаменти под наем"
+  },
+  {
+    "legacy_id": 3089,
+    "old_path": "/property/dvuetazhna-kastha-za-prodazhba-v-s-levka/",
+    "title": "Двуетажна къща за продажба в с. Левка"
+  },
+  {
+    "legacy_id": 3105,
+    "old_path": "/property/upi-za-prodazhba-5/",
+    "title": "УПИ за продажба"
+  },
+  {
+    "legacy_id": 3141,
+    "old_path": "/property/pozemlen-imot-za-prodazhba-v-mestnost-2/",
+    "title": "Поземлен имот за продажба в местност \" Речни лозя\""
+  },
+  {
+    "legacy_id": 3149,
+    "old_path": "/property/%d1%82%d1%8a%d1%80%d0%b3%d0%be%d0%b2%d1%81%d0%ba%d0%be-%d0%bf%d0%be%d0%bc%d0%b5%d1%89%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bf%d0%be%d0%b4-%d0%bd%d0%b0%d0%b5%d0%bc-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d0%b4%d0%b0/",
+    "title": "Търговско помещение под наем / за продажба"
+  },
+  {
+    "legacy_id": 3175,
+    "old_path": "/property/pozemlen-imot-za-prodazhba-v-grad-svile/",
+    "title": "Поземлен имот за продажба в град Свиленград"
+  },
+  {
+    "legacy_id": 3191,
+    "old_path": "/property/dvustaen-apartament-za-prodazhba-v-nov/",
+    "title": "Двустаен апартамент за продажба в нова кооперация"
+  },
+  {
+    "legacy_id": 3289,
+    "old_path": "/property/tristaen-apartament-pod-naem-7/",
+    "title": "Тристаен апартамент под наем"
+  },
+  {
+    "legacy_id": 3315,
+    "old_path": "/property/dvustaen-apartament-za-prodazhba-17/",
+    "title": "Двустаен апартамент за продажба"
+  },
+  {
+    "legacy_id": 3346,
+    "old_path": "/property/dvustaen-apartament-pod-naem-12/",
+    "title": "Двустаен апартамент под наем"
+  },
+  {
+    "legacy_id": 3360,
+    "old_path": "/property/targovsko-pomesthenie-pod-naem-v-ideale/",
+    "title": "Търговско помещение под наем в идеален център"
+  },
+  {
+    "legacy_id": 3402,
+    "old_path": "/property/pozemlen-imot-za-prodazhba-v-m-n-karant/",
+    "title": "Поземлен имот за продажба в м-н \" Карантините\""
+  },
+  {
+    "legacy_id": 3407,
+    "old_path": "/property/dvustaen-apartament-pod-naem-v-czentar/",
+    "title": "Двустаен апартамент под наем в центъра на града"
+  },
+  {
+    "legacy_id": 3430,
+    "old_path": "/property/%d0%b4%d0%b2%d0%b5-%d0%bc%d0%b0%d1%81%d0%b8%d0%b2%d0%bd%d0%b8-%d0%ba%d1%8a%d1%89%d0%b8-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b1%d0%b0-%d0%b2-%d0%b3%d1%80%d0%b0%d0%b4-%d1%81%d0%b2%d0%b8/",
+    "title": "Две масивни къщи за продажба в град Свиленград"
+  },
+  {
+    "legacy_id": 3458,
+    "old_path": "/property/dvustaen-apartament-pod-naem-13/",
+    "title": "Двустаен апартамент под наем"
+  },
+  {
+    "legacy_id": 3516,
+    "old_path": "/property/studio-pod-naem-4/",
+    "title": "Студио под наем"
+  },
+  {
+    "legacy_id": 3522,
+    "old_path": "/property/tristaen-apartament-pod-naem-8/",
+    "title": "Тристаен апартамент под наем"
+  },
+  {
+    "legacy_id": 3530,
+    "old_path": "/property/tristaen-apartament-pod-naem-v-ideale/",
+    "title": "Тристаен апартамент под наем в идеален център"
+  },
+  {
+    "legacy_id": 3620,
+    "old_path": "/property/pozemlen-imot-za-prodazhba-v-m-n-cherven/",
+    "title": "Поземлен имот за продажба в м-н \" Червената пръст\""
+  },
+  {
+    "legacy_id": 3643,
+    "old_path": "/property/dvustaen-apartament-pod-naem-16/",
+    "title": "Двустаен апартамент под наем"
+  },
+  {
+    "legacy_id": 3666,
+    "old_path": "/property/chetiristaen-apartament-pod-naem-3/",
+    "title": "Четиристаен апартамент под наем"
+  },
+  {
+    "legacy_id": 3731,
+    "old_path": "/property/trietazhna-masivna-kastha-za-prodazhba-2/",
+    "title": "Триетажна масивна къща за продажба"
+  },
+  {
+    "legacy_id": 3775,
+    "old_path": "/property/%d1%82%d1%8a%d1%80%d0%b3%d0%be%d0%b2%d1%81%d0%ba%d0%be-%d0%bf%d0%be%d0%bc%d0%b5%d1%89%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bf%d0%be%d0%b4-%d0%bd%d0%b0%d0%b5%d0%bc-6/",
+    "title": "Търговско помещение под наем"
+  },
+  {
+    "legacy_id": 3795,
+    "old_path": "/property/tristaen-apartament-za-prodazhba-v-izg/",
+    "title": "Тристаен апартамент за продажба в \" Изгрев парк\""
+  },
+  {
+    "legacy_id": 3841,
+    "old_path": "/property/pozemlen-imot-za-prodazhba-v-m-n-rechni-l/",
+    "title": "Поземлен имот за продажба в м-н \"Речни лозя\""
+  },
+  {
+    "legacy_id": 3849,
+    "old_path": "/property/targovsko-pomesthenie-pod-naem-7/",
+    "title": "Търговско помещение под наем"
+  },
+  {
+    "legacy_id": 3916,
+    "old_path": "/property/luksozna-rezidencziya-za-prodazhba/",
+    "title": "Луксозна резиденция за продажба/ отдаване под наем"
+  },
+  {
+    "legacy_id": 4028,
+    "old_path": "/property/dvustaen-apartament-pod-naem-17/",
+    "title": "Двустаен апартамент под наем"
+  },
+  {
+    "legacy_id": 4062,
+    "old_path": "/property/imot-za-prodazhba-v-grad-lyubimecz/",
+    "title": "Имот за продажба в град Любимец"
+  },
+  {
+    "legacy_id": 4109,
+    "old_path": "/property/dvustaen-mansarden-apartament-pod-na/",
+    "title": "Двустаен мансарден апартамент под наем"
+  },
+  {
+    "legacy_id": 4115,
+    "old_path": "/property/tristaen-apartament-za-prodazhba-v-gra-6/",
+    "title": "Тристаен апартамент за продажба в град Свиленград"
+  },
+  {
+    "legacy_id": 4136,
+    "old_path": "/property/ednoetazhna-kastha-pod-naem-v-neposredst/",
+    "title": "Едноетажна къща под наем в непосредствена близост до град Свиленград"
+  },
+  {
+    "legacy_id": 4147,
+    "old_path": "/property/%d0%bb%d1%83%d0%ba%d1%81%d0%be%d0%b7%d0%bd%d0%be-%d0%be%d0%b1%d0%b7%d0%b0%d0%b2%d0%b5%d0%b4%d0%b5%d0%bd-%d0%b0%d0%bf%d0%b0%d1%80%d1%82%d0%b0%d0%bc%d0%b5%d0%bd%d1%82-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be/",
+    "title": "Луксозно обзаведен апартамент за продажба"
+  },
+  {
+    "legacy_id": 4184,
+    "old_path": "/property/apartament-za-prodazhba-v-grad-svileng/",
+    "title": "Апартамент за продажба в град Свиленград"
+  },
+  {
+    "legacy_id": 4209,
+    "old_path": "/property/dvuetazhna-kastha-za-prodazhba-v-idealen-cz/",
+    "title": "Двуетажна къща за продажба в идеален център"
+  },
+  {
+    "legacy_id": 4292,
+    "old_path": "/property/dvuetazhna-masivna-kastha-v-s-momkovo/",
+    "title": "Двуетажна масивна къща в с. Момково"
+  },
+  {
+    "legacy_id": 4379,
+    "old_path": "/property/%d0%b4%d0%b2%d1%83%d0%b5%d1%82%d0%b0%d0%b6%d0%bd%d0%b0-%d1%82%d1%83%d1%85%d0%bb%d0%b5%d0%bd%d0%b0-%d0%ba%d1%8a%d1%89%d0%b0-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b1%d0%b0-%d0%b2-%d1%81/",
+    "title": "Двуетажна тухлена къща за продажба в с. Студена"
+  },
+  {
+    "legacy_id": 4409,
+    "old_path": "/property/%d1%82%d1%8a%d1%80%d0%b3%d0%be%d0%b2%d1%81%d0%ba%d0%b8-%d0%bf%d0%be%d0%bc%d0%b5%d1%89%d0%b5%d0%bd%d0%b8%d1%8f-%d0%bf%d0%be%d0%b4-%d0%bd%d0%b0%d0%b5%d0%bc-%d0%b2-%d0%b3%d1%80%d0%b0%d0%b4-%d1%81%d0%b2/",
+    "title": "Търговски помещения под наем в град Свиленград"
+  },
+  {
+    "legacy_id": 4434,
+    "old_path": "/property/tristaen-apartament-v-idealen-czentar/",
+    "title": "Тристаен апартамент в идеален център за продажба"
+  },
+  {
+    "legacy_id": 4473,
+    "old_path": "/property/ednoetazhna-kastha-za-prodazhba-v-grad-lyub-3/",
+    "title": "Едноетажна къща под наем в град Любимец"
+  },
+  {
+    "legacy_id": 4479,
+    "old_path": "/property/etazh-ot-kastha-pod-naem-v-grad-svilengrad/",
+    "title": "Етаж от къща под наем в град Свиленград"
+  },
+  {
+    "legacy_id": 4499,
+    "old_path": "/property/dvustaen-apartament-pod-naem-18/",
+    "title": "Двустаен апартамент под наем"
+  },
+  {
+    "legacy_id": 4516,
+    "old_path": "/property/ednoetazhna-kastha-za-prodazhba-5/",
+    "title": "Едноетажна къща за продажба"
+  },
+  {
+    "legacy_id": 4528,
+    "old_path": "/property/dvuetazhna-luksozna-kastha-pod-naem-2/",
+    "title": "Двуетажна луксозна къща под наем"
+  },
+  {
+    "legacy_id": 4559,
+    "old_path": "/property/%d0%b4%d0%b2%d1%83%d0%b5%d1%82%d0%b0%d0%b6%d0%bd%d0%b0-%d0%ba%d1%8a%d1%89%d0%b0-%d1%81-%d0%b1%d0%b0%d1%80%d0%b1%d0%b5%d0%ba%d1%8e-%d0%b8-%d1%81%d0%b0%d1%83%d0%bd%d0%b0-%d0%bf%d0%be%d0%b4-%d0%bd%d0%b0/",
+    "title": "Двуетажна къща с барбекю и сауна под наем в китно селце"
+  },
+  {
+    "legacy_id": 4578,
+    "old_path": "/property/samostoyatelen-etazh-ot-kastha-s-mazetava/",
+    "title": "Самостоятелен етаж от къща с мазе,таван и гараж за продажба"
+  },
+  {
+    "legacy_id": 4606,
+    "old_path": "/property/trietazhna-kastha-bliznak-za-prodazhba/",
+    "title": "Триетажна къща близнак за продажба"
+  },
+  {
+    "legacy_id": 4650,
+    "old_path": "/property/studio-pod-naem-v-grad-svilengrad/",
+    "title": "Студио под наем в град Свиленград"
+  },
+  {
+    "legacy_id": 4656,
+    "old_path": "/property/upi-za-prodazhba-sas-selskostopanska-p/",
+    "title": "УПИ за продажба със селскостопанска постройка в град Любимец"
+  },
+  {
+    "legacy_id": 4663,
+    "old_path": "/property/tristaen-apartament-pod-naem-v-nova-ko/",
+    "title": "Тристаен апартамент под наем в нова кооперация"
+  },
+  {
+    "legacy_id": 4673,
+    "old_path": "/property/dvuetazhna-masivna-kastha-za-prodazhba-v-g-2/",
+    "title": "Двуетажна масивна къща за продажба в град Ивайловград"
+  },
+  {
+    "legacy_id": 4700,
+    "old_path": "/property/targovsko-pomesthenie-pod-naem-v-ideale-3/",
+    "title": "Търговско помещение под наем в идеален център"
+  },
+  {
+    "legacy_id": 4718,
+    "old_path": "/property/kastha-za-gosti-za-prodazhba-v-s-slavyanovo/",
+    "title": "Къща за гости за продажба в с. Славяново"
+  },
+  {
+    "legacy_id": 4749,
+    "old_path": "/property/%d1%82%d1%8a%d1%80%d0%b3%d0%be%d0%b2%d1%81%d0%ba%d0%be-%d0%bf%d0%be%d0%bc%d0%b5%d1%89%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b1%d0%b0-%d0%b2-%d0%b3%d1%80%d0%b0-2/",
+    "title": "Търговско помещение за продажба в град Свиленград"
+  },
+  {
+    "legacy_id": 4755,
+    "old_path": "/property/etazh-ot-kastha-pod-naem-v-shirok-czentar/",
+    "title": "Етаж от къща под наем в широк център"
+  },
+  {
+    "legacy_id": 4772,
+    "old_path": "/property/dvustaen-apartament-pod-naem-v-ideale-3/",
+    "title": "Двустаен апартамент под наем в идеален център"
+  },
+  {
+    "legacy_id": 4794,
+    "old_path": "/property/%d0%bb%d1%83%d0%ba%d1%81%d0%be%d0%b7%d0%bd%d0%b0-%d0%ba%d1%8a%d1%89%d0%b0-%d1%81-%d0%bf%d0%b0%d1%80%d1%82%d0%b5%d1%80%d0%b5%d0%bd-%d0%b5%d1%82%d0%b0%d0%b6-%d0%b8-%d1%82%d0%b0%d0%b2%d0%b0%d0%bd-%d0%b7/",
+    "title": "Луксозна къща с партерен етаж и таван за продажба"
+  },
+  {
+    "legacy_id": 4819,
+    "old_path": "/property/apartament-za-prodazhba-v-grad-svileng-2/",
+    "title": "Апартамент за продажба в град Свиленград"
+  },
+  {
+    "legacy_id": 4830,
+    "old_path": "/property/dvuetazhna-kastha-s-prizemen-etazh-basejn/",
+    "title": "Двуетажна къща с приземен етаж, басейн и търговско помещение за продажба"
+  },
+  {
+    "legacy_id": 4844,
+    "old_path": "/property/dvuetazhna-kastha-za-prodazhba-v-grad-lyubi-2/",
+    "title": "Двуетажна къща за продажба в град Любимец"
+  },
+  {
+    "legacy_id": 4899,
+    "old_path": "/property/dvustaen-apartament-za-prodazhba-14/",
+    "title": "Двустаен апартамент за продажба"
+  },
+  {
+    "legacy_id": 4905,
+    "old_path": "/property/%d0%b7%d0%b5%d0%bc%d0%b5%d0%b4%d0%b5%d0%bb%d1%81%d0%ba%d0%b8-%d0%b7%d0%b5%d0%bc%d0%b8-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b1%d0%b0-%d0%b2-%d0%bc-%d0%bd-%d0%bf%d1%8a%d1%81%d1%82/",
+    "title": "Земеделски земи за продажба в м-н \" Пъстрогорски\""
+  },
+  {
+    "legacy_id": 5393,
+    "old_path": "/property/tristaen-apartament-pod-naem-9/",
+    "title": "Тристаен апартамент под наем в град Свиленград"
+  },
+  {
+    "legacy_id": 5430,
+    "old_path": "/property/dvustaen-apartament-pod-naem-11/",
+    "title": "Двустаен апартамент под наем"
+  },
+  {
+    "legacy_id": 5437,
+    "old_path": "/property/tristaen-apartament-pod-naem-v-shirok-cz/",
+    "title": "Тристаен апартамент под наем в широк център"
+  },
+  {
+    "legacy_id": 5460,
+    "old_path": "/property/tristaen-apartament-za-prodazhba-s-maz/",
+    "title": "Тристаен апартамент за продажба с мазе"
+  },
+  {
+    "legacy_id": 5480,
+    "old_path": "/property/ednoetazhna-kastha-za-prodazhba-v-grad-lyub/",
+    "title": "Едноетажна къща за продажба в град Любимец"
+  },
+  {
+    "legacy_id": 5507,
+    "old_path": "/property/%d1%81%d0%b3%d1%80%d0%b0%d0%b4%d0%b0-%d1%81-%d1%82%d1%8a%d1%80%d0%b3%d0%be%d0%b2%d1%81%d0%ba%d0%b8-%d0%bf%d0%be%d0%bc%d0%b5%d1%89%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b8-%d0%b0%d0%bf%d0%b0%d1%80%d1%82%d0%b0/",
+    "title": "Сграда с търговски помещения и апартаменти за продажба"
+  },
+  {
+    "legacy_id": 5522,
+    "old_path": "/property/dvustaen-apartament-pod-naem-v-grad-sv/",
+    "title": "Двустаен апартамент за продажба/ отдаване под наем в град Свиленград"
+  },
+  {
+    "legacy_id": 5533,
+    "old_path": "/property/ednoetazhna-kastha-za-prodazhba-v-s-kapita/",
+    "title": "Едноетажна къща за продажба в с. Капитан Андреево"
+  },
+  {
+    "legacy_id": 5553,
+    "old_path": "/property/dvustaen-apartament-za-prodazhba-15/",
+    "title": "Двустаен апартамент за продажба"
+  },
+  {
+    "legacy_id": 5594,
+    "old_path": "/property/dvustaen-apartament-za-prodazhba-v-gra-2/",
+    "title": "Двустаен апартамент под наем в град Свиленград"
+  },
+  {
+    "legacy_id": 5603,
+    "old_path": "/property/targovsko-pomesthenie-za-prodazhba-v-gra/",
+    "title": "Търговско помещение за продажба в град Свиленград"
+  },
+  {
+    "legacy_id": 5622,
+    "old_path": "/property/dvustaen-apartament-pod-naem-19/",
+    "title": "Двустаен апартамент под наем"
+  },
+  {
+    "legacy_id": 5634,
+    "old_path": "/property/studio-pod-naem-v-shirok-czentar/",
+    "title": "Студио под наем в широк център"
+  },
+  {
+    "legacy_id": 5640,
+    "old_path": "/property/etazh-ot-kastha-za-prodazhba-v-grad-svilen-2/",
+    "title": "Етаж от къща за продажба в град Свиленград"
+  },
+  {
+    "legacy_id": 5657,
+    "old_path": "/property/tristaen-apartament-pod-naem-v-nova-ko-2/",
+    "title": "Тристаен апартамент под наем в нова кооперация"
+  },
+  {
+    "legacy_id": 5669,
+    "old_path": "/property/malomerno-zhilisthe-pod-naem/",
+    "title": "Маломерно жилище под наем"
+  },
+  {
+    "legacy_id": 5675,
+    "old_path": "/property/apartamenti-i-podzemni-garazhi-za-prod/",
+    "title": "Апартаменти и подземни гаражи за продажба на зелено в нова кооперация"
+  },
+  {
+    "legacy_id": 5691,
+    "old_path": "/property/etazh-ot-kastha-pod-naem-2/",
+    "title": "Етаж от къща под наем"
+  },
+  {
+    "legacy_id": 5700,
+    "old_path": "/property/ednoetazhna-luksozna-kastha-pod-naem/",
+    "title": "Едноетажна луксозна къща под наем"
+  },
+  {
+    "legacy_id": 5729,
+    "old_path": "/property/dvustaen-apartament-pod-naem-v-shirok-cz/",
+    "title": "Двустаен апартамент под наем в широк център"
+  },
+  {
+    "legacy_id": 5741,
+    "old_path": "/property/dvustaen-apartament-pod-naem-20/",
+    "title": "Двустаен апартамент под наем"
+  },
+  {
+    "legacy_id": 5753,
+    "old_path": "/property/dvustaen-apartament-pod-naem-21/",
+    "title": "Двустаен апартамент под наем"
+  },
+  {
+    "legacy_id": 5761,
+    "old_path": "/property/tristaen-apartament-za-prodazhba-v-zh-k/",
+    "title": "Тристаен апартамент за продажба в ж.к. \" Изгрев\""
+  },
+  {
+    "legacy_id": 5768,
+    "old_path": "/property/upi-za-prodazhba-v-s-izvorovo-obsth-harma/",
+    "title": "УПИ за продажба в с. Изворово, общ. Харманли"
+  },
+  {
+    "legacy_id": 5771,
+    "old_path": "/property/%d1%82%d1%80%d0%b8%d1%81%d1%82%d0%b0%d0%b5%d0%bd-%d0%b0%d0%bf%d0%b0%d1%80%d1%82%d0%b0%d0%bc%d0%b5%d0%bd%d1%82-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b1%d0%b0-2/",
+    "title": "Тристаен апартамент за продажба"
+  },
+  {
+    "legacy_id": 5787,
+    "old_path": "/property/%d1%83%d0%bf%d0%b8-%d1%81-%d1%82%d1%8a%d1%80%d0%b3%d0%be%d0%b2%d1%81%d0%ba%d0%b8-%d0%be%d0%b1%d0%b5%d0%ba%d1%82-%d0%b7%d0%b0-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d0%b6%d0%b1%d0%b0/",
+    "title": "УПИ с търговски обект за продажба"
+  },
+  {
+    "legacy_id": 5793,
+    "old_path": "/property/ednoetazhna-kastha-za-prodazhba-v-grad-lyub-4/",
+    "title": "Едноетажна къща за продажба в град Любимец"
+  },
+  {
+    "legacy_id": 5833,
+    "old_path": "/property/targovsko-pomesthenie-sklad-za-otdavan/",
+    "title": "Търговско помещение/склад за отдаване под наем"
+  },
+  {
+    "legacy_id": 5838,
+    "old_path": "/property/ednoetazhna-kastha-za-prodazhba-v-s-cherepo/",
+    "title": "Едноетажна къща за продажба в с. Черепово"
+  },
+  {
+    "legacy_id": 5868,
+    "old_path": "/property/etazh-ot-kastha-pod-naem-v-blizost-do-grad-2/",
+    "title": "Етаж от къща под наем в близост до Градския парк"
+  },
+  {
+    "legacy_id": 5972,
+    "old_path": "/property/ednofamilna-kastha-za-prodazhba-v-grad-svilengrad/",
+    "title": "Еднофамилна къща за продажба в град Свиленград"
+  },
+  {
+    "legacy_id": 5985,
+    "old_path": "/property/dvustaen-apartament-za-prodazhba/",
+    "title": "Двустаен апартамент за продажба"
+  },
+  {
+    "legacy_id": 5998,
+    "old_path": "/property/nov-dvustaen-apartament-pod-naem/",
+    "title": "Нов двустаен апартамент под наем"
+  },
+  {
+    "legacy_id": 6030,
+    "old_path": "/property/dvustaen-apartament-pod-naem-v-idealen-czentar/",
+    "title": "Двустаен апартамент под наем в идеален център"
+  },
+  {
+    "legacy_id": 6042,
+    "old_path": "/property/ednofamilna-kastha-za-prodazhba-v-s-palli-garcziya/",
+    "title": "Еднофамилна къща за продажба в с. Палли, Гърция"
+  },
+  {
+    "legacy_id": 6061,
+    "old_path": "/property/tri-pozemleni-imota-za-prodazhba-v-m-n-dyunlyuka/",
+    "title": "Три поземлени имота за продажба в м-н \" Дюнлюка\""
+  },
+  {
+    "legacy_id": 6063,
+    "old_path": "/property/upi-za-prodazhba-v-s-mezek/",
+    "title": "УПИ за продажба в с. Мезек"
+  },
+  {
+    "legacy_id": 6067,
+    "old_path": "/property/etazh-ot-kastha-s-1-3-dvorno-myasto-i-dopalnitelna-postrojka-za-prodazhba/",
+    "title": "Етаж от къща с 1/3 дворно място и допълнителна постройка за продажба"
+  },
+  {
+    "legacy_id": 6078,
+    "old_path": "/property/tri-pozemleni-imoti-za-prodazhba-v-m-n-pastrogorski-pat/",
+    "title": "Три поземлени имоти за продажба в м-н Пъстрогорски път"
+  },
+  {
+    "legacy_id": 6082,
+    "old_path": "/property/tristaen-apartament-pod-naem/",
+    "title": "Тристаен апартамент под наем"
+  },
+  {
+    "legacy_id": 6092,
+    "old_path": "/property/dvustaen-apartament-pod-naem/",
+    "title": "Двустаен апартамент под наем"
+  },
+  {
+    "legacy_id": 6101,
+    "old_path": "/property/etazh-ot-mnogofamilna-zhilisthna-sgrada-za-prodazhba/",
+    "title": "Етаж от многофамилна жилищна сграда за продажба"
+  },
+  {
+    "legacy_id": 6113,
+    "old_path": "/property/dvustaen-apartament-pod-naem-2/",
+    "title": "Двустаен апартамент под наем"
+  },
+  {
+    "legacy_id": 6127,
+    "old_path": "/property/kastha-za-prodazhba-v-s-kapitan-andreevo/",
+    "title": "Къща за продажба в с. Капитан Андреево"
+  },
+  {
+    "legacy_id": 6138,
+    "old_path": "/property/urbaniziran-pozemlen-imot-za-prodazhba/",
+    "title": "Урегулиран поземлен имот за продажба"
+  },
+  {
+    "legacy_id": 6143,
+    "old_path": "/property/studio-pod-naem-v-grad-svilengrad-2/",
+    "title": "Студио под наем в град Свиленград"
+  },
+  {
+    "legacy_id": 6149,
+    "old_path": "/property/dvustaen-apartament-pod-naem-3/",
+    "title": "Двустаен апартамент под наем"
+  },
+  {
+    "legacy_id": 6157,
+    "old_path": "/property/mezonet-za-prodazhba-na-zeleno/",
+    "title": "Мезонет за продажба на зелено"
+  },
+  {
+    "legacy_id": 6164,
+    "old_path": "/property/dvustaen-apartament-pod-naem-4/",
+    "title": "Двустаен апартамент под наем"
+  },
+  {
+    "legacy_id": 6174,
+    "old_path": "/property/tristaen-apartament-pod-naem-v-grad-svilengrad/",
+    "title": "Тристаен апартамент под наем в град Свиленград"
+  },
+  {
+    "legacy_id": 6185,
+    "old_path": "/property/dvustaen-apartament-pod-naem-5/",
+    "title": "Двустаен апартамент под наем"
+  },
+  {
+    "legacy_id": 6194,
+    "old_path": "/property/dvustaen-butikov-apartament-pod-naem/",
+    "title": "Двустаен бутиков апартамент под наем"
+  },
+  {
+    "legacy_id": 6206,
+    "old_path": "/property/pozemlen-imot-za-prodazhba-v-m-n-rechni-lozya/",
+    "title": "Поземлен имот за продажба в м-н \"Речни лозя\""
+  },
+  {
+    "legacy_id": 6217,
+    "old_path": "/property/etazh-ot-kastha-pod-naem-v-s-generalovo/",
+    "title": "Двуетажна къща под наем в с. Генералово"
+  },
+  {
+    "legacy_id": 6226,
+    "old_path": "/property/tristaen-apartament-za-prodazhba/",
+    "title": "Тристаен апартамент за продажба"
+  },
+  {
+    "legacy_id": 6239,
+    "old_path": "/property/ednoetazhna-kastha-za-prodazhba-v-s-mezek/",
+    "title": "Едноетажна къща за продажба в с. Мезек"
+  },
+  {
+    "legacy_id": 6253,
+    "old_path": "/property/upi-za-prodazhba-v-grad-svilengrad-2/",
+    "title": "УПИ за продажба в град Свиленград"
+  },
+  {
+    "legacy_id": 6256,
+    "old_path": "/property/tristaen-apartament-i-garazhi-za-prodazhba-v-nova-kooperacziya/",
+    "title": "Тристаен апартамент и гаражи за продажба в нова кооперация"
+  },
+  {
+    "legacy_id": 6266,
+    "old_path": "/property/mnogostaen-apartament-za-prodazhba-i-garazhi-v-novostrostha-se-kooperacziya/",
+    "title": "Многостаен апартамент за продажба и гаражи в новостроща се кооперация"
+  },
+  {
+    "legacy_id": 6273,
+    "old_path": "/property/tristaen-apartament-za-prodazhba-v-nova-sgrada/",
+    "title": "Тристаен апартамент за продажба в нова сграда"
+  },
+  {
+    "legacy_id": 6280,
+    "old_path": "/property/dva-dvustajni-apartamenta-i-studio-za-prodazhba-v-novostrastha-se-sgrada/",
+    "title": "Студио за продажба и гаражи в новостраща се сграда"
+  },
+  {
+    "legacy_id": 6286,
+    "old_path": "/property/studio-za-prodazhba-v-grad-svilengrad/",
+    "title": "Студио за продажба в град Свиленград"
+  },
+  {
+    "legacy_id": 6300,
+    "old_path": "/property/prodava-se-ednoetazhna-kastha-v-s-mezek/",
+    "title": "Продава се едноетажна къща в с. Мезек"
+  },
+  {
+    "legacy_id": 6312,
+    "old_path": "/property/dvustaen-apartamen-za-prodazhba/",
+    "title": "Двустаен апартамен за продажба"
+  },
+  {
+    "legacy_id": 6325,
+    "old_path": "/property/ednofamilna-kastha-za-prodazhba-v-idealen-czentar/",
+    "title": "Еднофамилна къща за продажба в идеален център"
+  },
+  {
+    "legacy_id": 6331,
+    "old_path": "/property/dvustajni-i-tristajni-apartamenti-za-prodazhba/",
+    "title": "Двустайни и тристайни апартаменти за продажба"
+  },
+  {
+    "legacy_id": 6346,
+    "old_path": "/property/ureguliran-pozemlen-imot-za-obezsthetenie/",
+    "title": "Урегулиран поземлен имот за обезщетение"
+  },
+  {
+    "legacy_id": 6347,
+    "old_path": "/property/dvustaen-apartament-pod-naem-6/",
+    "title": "Двустаен апартамент под наем"
+  },
+  {
+    "legacy_id": 6368,
+    "old_path": "/property/apartamenti-za-prodazhba-v-novostroyastha-se-kooperacziya/",
+    "title": "Апартаменти за продажба в новострояща се кооперация"
+  },
+  {
+    "legacy_id": 6387,
+    "old_path": "/property/dvuetazhna-ednofamilna-kastha-za-prodazhba/",
+    "title": "Луксозен семеен дом за продажба"
+  },
+  {
+    "legacy_id": 6416,
+    "old_path": "/property/pozemlen-imot-za-prodazhba-v-s-momkovo/",
+    "title": "Поземлен имот за продажба в с. Момково"
+  },
+  {
+    "legacy_id": 6422,
+    "old_path": "/property/dve-targovski-pomestheniya-za-prodazhba/",
+    "title": "Две търговски помещения за продажба в идеален център"
+  },
+  {
+    "legacy_id": 6431,
+    "old_path": "/property/dvustaen-apartament-v-shirok-czentar/",
+    "title": "Двустаен апартамент под наем в широк център"
+  },
+  {
+    "legacy_id": 6455,
+    "old_path": "/property/dvustaen-obzaveden-apartament-za-prodazhba/",
+    "title": "Двустаен обзаведен апартамент за продажба"
+  },
+  {
+    "legacy_id": 6482,
+    "old_path": "/property/upi-za-prodazhba-s-postrojka-za-zhivotnovadni-czeli-v-s-studena/",
+    "title": "УПИ за продажба с постройка за животновъдни цели в с. Студена"
+  },
+  {
+    "legacy_id": 6491,
+    "old_path": "/property/ednoetazhna-kastha-za-prodazhba-v-s-generalovo/",
+    "title": "Едноетажна къща за продажба в с. Генералово"
+  },
+  {
+    "legacy_id": 6498,
+    "old_path": "/property/nov-dvustaen-apartament-pod-naem-2/",
+    "title": "Нов двустаен апартамент под наем"
+  },
+  {
+    "legacy_id": 6510,
+    "old_path": "/property/mansardna-garsoniera-pod-naem/",
+    "title": "Мансардна гарсониера под наем"
+  },
+  {
+    "legacy_id": 6517,
+    "old_path": "/property/tristaen-apartament-za-prodazhba-v-grad-svilengrad/",
+    "title": "Тристаен апартамент за продажба в град Свиленград"
+  },
+  {
+    "legacy_id": 6549,
+    "old_path": "/property/tristaen-apartament-za-prodazhba-2/",
+    "title": "Тристаен апартамент за продажба"
+  },
+  {
+    "legacy_id": 6560,
+    "old_path": "/property/dvustaen-apartament-za-prodazhba-2/",
+    "title": "Двустаен апартамент за продажба"
+  },
+  {
+    "legacy_id": 6568,
+    "old_path": "/property/dvustaen-apartament-za-prodazhba-v-novostroyastha-se-sgrada/",
+    "title": "Двустаен апартамент за продажба в новострояща се сграда"
+  },
+  {
+    "legacy_id": 6578,
+    "old_path": "/property/tristaen-apartament-za-prodazhba-v-nova-sgrada-2/",
+    "title": "Тристаен апартамент за продажба в нова сграда"
+  },
+  {
+    "legacy_id": 6619,
+    "old_path": "/property/butikova-zhilisthna-sgrada-s-ogranichen-broj-apartamenti-za-prodazhba/",
+    "title": "Бутикова жилищна сграда с ограничен брой апартаменти за продажба"
+  },
+  {
+    "legacy_id": 6631,
+    "old_path": "/property/ednoetazhna-kastha-za-prodazhba-v-s-levka/",
+    "title": "Едноетажна къща за продажба в с. Левка"
+  },
+  {
+    "legacy_id": 6646,
+    "old_path": "/property/apartamenti-za-prodazhba-v-novostroyastha-se-sgrada/",
+    "title": "Апартаменти за продажба в новострояща се сграда"
+  },
+  {
+    "legacy_id": 6655,
+    "old_path": "/property/dvustaen-apartament-pod-naem-v-super-czentar/",
+    "title": "Двустаен апартамент под наем в супер център"
+  },
+  {
+    "legacy_id": 6669,
+    "old_path": "/property/napalno-oborudvana-kastha-za-prodazhba-v-s-pastrogor/",
+    "title": "Напълно оборудвана къща за продажба в с. Пъстрогор"
+  },
+  {
+    "legacy_id": 6710,
+    "old_path": "/property/studio-za-prodazhba-v-novostroyastha-se-zhilisthna-sgrada/",
+    "title": "Студио за продажба в новострояща се жилищна сграда"
+  },
+  {
+    "legacy_id": 6718,
+    "old_path": "/property/dvustaen-apartament-za-prodazhba-v-zatvoren-kompleks/",
+    "title": "Двустаен апартамент за продажба в затворен комплекс"
+  },
+  {
+    "legacy_id": 6726,
+    "old_path": "/property/targovsko-pomesthenie-za-prodazhba-2/",
+    "title": "Търговско помещение за продажба"
+  },
+  {
+    "legacy_id": 6750,
+    "old_path": "/property/targovsko-proizvodstven-obekt-v-s-momkovo-pod-naem/",
+    "title": "Търговско/ производствен обект в с. Момково под наем"
+  }
+]

@@ -76,14 +76,37 @@ export const Media: CollectionConfig = {
                 return data;
               }
 
+              const watermarkWidth = Math.round(metadata.width * 0.6);
+
               const resizedWatermarkBuffer = await watermark
-                .resize({ width: metadata.width })
+                .resize({ width: watermarkWidth })
+                .ensureAlpha()
+                .toBuffer();
+
+              // Reduce watermark opacity to ~25%
+              const wmMeta = await sharp(resizedWatermarkBuffer).metadata();
+              const { data: rawPixels, info } = await sharp(
+                resizedWatermarkBuffer,
+              )
+                .raw()
+                .toBuffer({ resolveWithObject: true });
+
+              for (let i = 3; i < rawPixels.length; i += 4) {
+                rawPixels[i] = Math.round(rawPixels[i] * 0.85);
+              }
+
+              const fadedWatermarkBuffer = await sharp(rawPixels, {
+                raw: {
+                  width: info.width,
+                  height: info.height,
+                  channels: info.channels,
+                },
+              })
+                .png()
                 .toBuffer();
 
               const compositedImageBuffer = await image
-                .composite([
-                  { input: resizedWatermarkBuffer, gravity: "center" },
-                ])
+                .composite([{ input: fadedWatermarkBuffer, gravity: "center" }])
                 .toBuffer();
 
               console.log("[Watermark] Watermark applied successfully.");

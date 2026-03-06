@@ -6,6 +6,30 @@ import { SearchSection } from "@/components/page/home/search-section";
 import { HeroSection } from "@/components/page/home/hero-section";
 import { createCache } from "@/lib/utils";
 
+export const generateMetadata = async () => {
+  const payload = await getPayload({ config });
+  const page = await payload.findGlobal({
+    slug: "home-page",
+  });
+
+  return {
+    title: page.meta?.title || 'Aгенция за недвижими имоти "Hayatis Estates"',
+    description:
+      page.meta?.description ||
+      "Професионализъм и висококачествени услуги в сферата на недвижимите имоти! Продажба, наеми и отпускане на кредит за имоти в гр. Свиленград и околността!",
+    keywords:
+      "имот,свиленград,хасково,гърция,българия,недвижими имоти,hayatis estates,продава,наем,апартамент,къща,паркомясто",
+    openGraph: {
+      title: page.meta?.title || 'Aгенция за недвижими имоти "Hayatis Estates"',
+      description:
+        page.meta?.description ||
+        "Професионализъм и висококачествени услуги в сферата на недвижимите имоти! Продажба, наеми и отпускане на кредит за имоти в гр. Свиленград и околността!",
+      type: "website",
+      locale: "bg-BG",
+    },
+  };
+};
+
 export default async function HomePage() {
   const payload = await getPayload({ config });
   const getNewestPropertiesData = createCache(

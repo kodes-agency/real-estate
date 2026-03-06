@@ -62,10 +62,10 @@ export default function Footer() {
                     <Link href="/imoti?purpose=for_rent">Наем</Link>
                   </li>
                   <li>
-                    <Link href="/about-us">За нас</Link>
+                    <Link href="/za-nas">За нас</Link>
                   </li>
                   <li>
-                    <Link href="/services">Услуги</Link>
+                    <Link href="/uslugi">Услуги</Link>
                   </li>
                   <li>
                     <Link href="/contact">Контакти</Link>
@@ -127,17 +127,15 @@ export default function Footer() {
               <p className="md:text-sm order-3 md:order-2">
                 © copyright Hayatis Estates - {new Date().getFullYear()}
               </p>
-              <Link
+              {/* <Link
                 className="md:text-sm order-2 md:order-3"
                 href="/policy/gtac"
               >
                 Общи условия за ползване
-              </Link>
-              <Link
-                className="md:text-sm order-1 md:order-4"
-                href="/policy/gdpr"
-              >
-                Политика за защита на личните данни
+              </Link> */}
+              <div className="order-2 md:order-3"></div>
+              <Link className="md:text-sm order-1 md:order-4" href="/policy">
+                Политика за поверителност
               </Link>
             </div>
           </div>
